@@ -9,9 +9,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      pages: write
-      id-token: write
+      contents: write # git-auto-commit-actionがリポジトリに書き込むために必要
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,10 +17,11 @@ jobs:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - run: python pipeline.py
-      - name: Commit & Push
-        run: |
-          git config user.name "crawler-bot"
-          git config user.email "crawler@users.noreply.github.com"
-          git add datastore/references.*
-          git commit -m "update: $(date -u +%FT%TZ)" || echo "no changes"
-          git push
+      - name: Commit & Push updated references
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update data: $(date -u +%FT%TZ)"
+          file_pattern: datastore/references.json datastore/references.yaml
+          commit_user_name: crawler-bot
+          commit_user_email: crawler@users.noreply.github.com
+          commit_author: crawler-bot <crawler@users.noreply.github.com>

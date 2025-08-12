@@ -33,18 +33,22 @@ def make_source(category: str, name: str, url: str, items: list):
         'items': items
     }
 
-def collect_links_from_html(base_url: str, html: str, keywords: tuple) -> list[tuple[str, str]]:
+def collect_links_from_html(base_url: str, html: str, keywords: tuple, domain_filter: str | None = None) -> list[tuple[str, str]]:
     """Generic link collector based on keywords in link text or href."""
     soup = BeautifulSoup(html, "lxml")
     links = []
     for a in soup.find_all("a"):
         href = a.get("href") or ""
         text = (a.get_text() or "").strip()
-        if not href:
+        if not href or href.startswith('#') or href.startswith('mailto:'):
             continue
         
-        if any(k in text for k in keywords) or any(k in href for k in ("medical_devices", "notice", "qa", "info")):
-            full_url = urljoin(base_url, href)
+        full_url = urljoin(base_url, href)
+        if domain_filter and domain_filter not in full_url:
+            continue
+
+        # Check if any keyword (case-insensitive) is in the link text or href
+        if any(k.lower() in (text + " " + href).lower() for k in keywords):
             links.append((full_url, text or full_url))
             
     seen, uniq = set(), []

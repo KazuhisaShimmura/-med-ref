@@ -1,31 +1,9 @@
-from .common import make_source, get_html, extract_text, parse_date_safe
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from .common import make_source, get_html, extract_text, parse_date_safe, collect_links_from_html
 
 BASE_URL = "https://www.fda.gov/medical-devices/digital-health-center-excellence"
 
 # FDA Digital Health Center Excellence: news/updates live under the same hub or child pages
 KEYWORDS = ("Digital Health", "AI", "SaMD", "software", "guidance", "news", "update", "framework")
-
-def _collect_links(base_url, html):
-    soup = BeautifulSoup(html, "lxml")
-    links = []
-    for a in soup.find_all("a"):
-        href = a.get("href") or ""
-        text = (a.get_text() or "").strip()
-        if not href:
-            continue
-        full = urljoin(base_url, href)
-        # limit to fda.gov domain & likely digital health subpages
-        if "fda.gov" in full and any(k.lower() in (text + " " + href).lower() for k in KEYWORDS):
-            links.append((full, text or full))
-    # de-dup
-    seen, uniq = set(), []
-    for u, t in links:
-        if u in seen: 
-            continue
-        seen.add(u); uniq.append((u, t))
-    return uniq
 
 def fetch_fda(max_items=8):
     items = []
