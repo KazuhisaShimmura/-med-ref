@@ -1,0 +1,29 @@
+medical_business_reference_urls:
+  market_and_trends:
+    - name: Global Market Insights – Healthcare
+      url: https://www.gminsights.com/industry-analysis/healthcare
+      note: 医療機器・デジタルヘルス・AI市場のCAGRや予測
+  competitors_and_cases:
+    - name: CB Insights – Digital Health
+      url: https://www.cbinsights.com/research/digital-health-startups/
+      note: 資金調達動向、企業比較、カテゴリ別マップ
+  regulation_and_policy:
+    - name: PMDA – 医療機器
+      url: https://www.pmda.go.jp/review-services/inspections/0001.html
+      note: 医療機器の承認・認証フロー
+  technology_and_standards:
+    - name: HL7 International
+      url: https://www.hl7.org/
+      note: 医療データ標準（FHIRなど）
+  funding_and_grants:
+    - name: AMED
+      url: https://www.amed.go.jp/
+      note: 医療・介護分野の研究開発助成
+  statistics_and_evidence:
+    - name: e-Stat
+      url: https://www.e-stat.go.jp/
+      note: 日本の医療統計（病院数、患者数、医療費など）
+  networking_and_support:
+    - name: MEDISO
+      url: https://www.mediso.mhlw.go.jp/
+      note: 厚労省主導の産学連携・事業化支援

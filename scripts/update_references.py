@@ -69,27 +69,40 @@ def make_source(category, name, url, items):
         "items": items,
     }
 
-# ---------- フェッチャ ----------
-def fetch_mhlw(max_items=6):
-    BASE = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html"
-    KEY = ("医療情報システム","安全管理","ガイドライン","通知","留意")
+def collect_links(base_url: str, text_keywords: tuple, href_keywords: tuple = ()) -> list[tuple[str, str]]:
+    """
+    指定されたURLからページを取得し、キーワードに一致するリンクを収集する汎用関数。
+    - text_keywords: リンクのテキストに含まれるべきキーワード
+    - href_keywords: リンクのURLに含まれるべきキーワード
+    """
     try:
-        html = http_get(BASE)
-    except Exception:
+        html = http_get(base_url)
+    except Exception as e:
+        print(f"[WARN] Failed to get {base_url}: {e}")
         return []
+
     soup = BeautifulSoup(html, "lxml")
     links = []
     for a in soup.find_all("a"):
         href = a.get("href") or ""
         text = (a.get_text() or "").strip()
         if not href: continue
-        full = href if href.startswith("http") else urljoin(BASE, href)
-        if any(k in text for k in KEY) or "johoka" in href:
-            links.append((full, text or full))
+        if any(k in text for k in text_keywords) or any(k in href for k in href_keywords):
+            full_url = urljoin(base_url, href)
+            links.append((full_url, text or full_url))
+    # de-dup while preserving order
     seen, uniq = set(), []
-    for u,t in links:
-        if u in seen: continue
-        seen.add(u); uniq.append((u,t))
+    for u, t in links:
+        if u not in seen:
+            seen.add(u); uniq.append((u, t))
+    return uniq
+
+# ---------- フェッチャ ----------
+def fetch_mhlw(max_items=6):
+    BASE = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html"
+    KEY = ("医療情報システム","安全管理","ガイドライン","通知","留意")
+    HREF_KEY = ("johoka",)
+    uniq = collect_links(BASE, text_keywords=KEY, href_keywords=HREF_KEY)
     items=[]
     for href, label in uniq[:max_items]:
         try:
@@ -120,25 +133,10 @@ def fetch_pmda(max_pages=2, max_items_per_page=6):
         "https://www.pmda.go.jp/medical_devices/",
     ]
     KEY = ("医療機器","お知らせ","通知","審査","承認","認証","安全","Q&A","事務連絡","回収")
+    HREF_KEY = ("medical_devices","notice","qa","info")
     items=[]
     for base in BASES[:max_pages]:
-        try:
-            html = http_get(base)
-        except Exception:
-            continue
-        soup = BeautifulSoup(html, "lxml")
-        links=[]
-        for a in soup.find_all("a"):
-            href=a.get("href") or ""
-            text=(a.get_text() or "").strip()
-            if not href: continue
-            full = href if href.startswith("http") else urljoin(base, href)
-            if any(k in text for k in KEY) or any(k in href for k in ("medical_devices","notice","qa","info")):
-                links.append((full, text or full))
-        seen, uniq=set(),[]
-        for u,t in links:
-            if u in seen: continue
-            seen.add(u); uniq.append((u,t))
+        uniq = collect_links(base, text_keywords=KEY, href_keywords=HREF_KEY)
         for href, label in uniq[:max_items_per_page]:
             try:
                 sub=http_get(href); text=extract_text(sub)
@@ -160,32 +158,13 @@ def fetch_pmda(max_pages=2, max_items_per_page=6):
             })
     return [make_source("regulation_and_policy","PMDA（医療機器・審査/通知）", BASES[0], items)]
 
-def _collect_links(base, html, keywords):
-    soup = BeautifulSoup(html, "lxml")
-    links=[]
-    for a in soup.find_all("a"):
-        href=a.get("href") or ""
-        text=(a.get_text() or "").strip()
-        if not href: continue
-        full = href if href.startswith("http") else urljoin(base, href)
-        if any(k in text for k in keywords):
-            links.append((full, text or full))
-    seen, uniq=set(),[]
-    for u,t in links:
-        if u in seen: continue
-        seen.add(u); uniq.append((u,t))
-    return uniq
-
 def fetch_amed(max_pages=1, max_items=12):
     BASES = ["https://www.amed.go.jp/koubo/index.html"]
     KEY = ("公募","募集","採択","研究開発","事業","助成","令和","公示")
     items=[]
     for base in BASES[:max_pages]:
-        try:
-            html=http_get(base)
-        except Exception:
-            continue
-        for href, label in _collect_links(base, html, KEY)[:max_items]:
+        links = collect_links(base, text_keywords=KEY)
+        for href, label in links[:max_items]:
             try:
                 sub=http_get(href); text=extract_text(sub)
             except Exception:
@@ -213,11 +192,8 @@ def fetch_jst(max_pages=1, max_items=15):
     KEY=("公募","募集","予告","採択","助成","研究","事業","プログラム")
     items=[]
     for base in BASES[:max_pages]:
-        try:
-            html=http_get(base)
-        except Exception:
-            continue
-        for href, label in _collect_links(base, html, KEY)[:max_items]:
+        links = collect_links(base, text_keywords=KEY)
+        for href, label in links[:max_items]:
             try:
                 sub=http_get(href); text=extract_text(sub)
             except Exception:
@@ -246,26 +222,10 @@ def fetch_nedo(max_pages=2, max_items=12):
         "https://www.nedo.go.jp/koubo/index.html",  # 公募
         "https://www.nedo.go.jp/news/",             # ニュース
     ]
-    KEY_CALL = ("公募","募集","助成","提案")
+    KEY = ("公募","募集","助成","提案", "ニュース","お知らせ","報道","発表")
     items=[]
     for base in BASES[:max_pages]:
-        try:
-            html=http_get(base)
-        except Exception:
-            continue
-        soup = BeautifulSoup(html, "lxml")
-        links=[]
-        for a in soup.find_all("a"):
-            href=a.get("href") or ""
-            text=(a.get_text() or "").strip()
-            if not href: continue
-            full = href if href.startswith("http") else urljoin(base, href)
-            if any(k in text for k in (KEY_CALL + ("ニュース","お知らせ","報道","発表"))):
-                links.append((full, text or full))
-        seen, uniq=set(),[]
-        for u,t in links:
-            if u in seen: continue
-            seen.add(u); uniq.append((u,t))
+        links = collect_links(base, text_keywords=KEY)
         for href, label in uniq[:max_items]:
             try:
                 sub=http_get(href); text=extract_text(sub)

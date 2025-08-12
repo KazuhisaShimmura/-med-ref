@@ -12,7 +12,21 @@ and publishes machine-readable outputs (`references.yaml` / `references.json`) t
 1) Create a new GitHub repo (e.g., `-med-ref`) and push these files.
 2) In GitHub, go to **Settings → Pages** and set:
    - Source: **GitHub Actions**
-3) The scheduled job (`.github/workflows/crawl.yml`) will generate/commit `datastore/references.*`.
+
+#### ステップC: クリーンアップ内容をプッシュする
+
+上記の整理が完了したら、その内容をコミットしてプッシュします。
+
+```bash
+# 1. ここまでの削除と修正をすべてステージングします
+git add .
+
+# 2. 整理内容をコミットします
+git commit -m "Refactor: Consolidate to new crawler system and remove obsolete code"
+
+# 3. GitHubにプッシュします
+git push
+3) The scheduled job (`.github/workflows/update_references.yml`) will generate/commit `datastore/references.*`.
 4) Access:
    - `https://KazuhisaShimmura.github.io/-med-ref/`
    - `https://KazuhisaShimmura.github.io/-med-ref/datastore/references.yaml`
@@ -22,7 +36,7 @@ and publishes machine-readable outputs (`references.yaml` / `references.json`) t
 
 ```bash
 pip install -r requirements.txt
-python pipeline.py
+python scripts/update_references.py
 python -m http.server 8000
 # open http://localhost:8000/datastore/references.yaml
 ```
