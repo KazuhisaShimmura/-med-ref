@@ -1,4 +1,39 @@
 {
-  "generated_at": "2025-08-12T05:40:18.394573Z",
-  "sources": []
+  "generated_at": "2025-08-12T09:00:00Z",
+  "sources": [
+    {
+      "category": "regulation_and_policy",
+      "name": "厚労省 医療情報システム安全管理ガイドライン",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
+      "fetched_at": "2025-08-12T08:59:00Z",
+      "items": [
+        {
+          "title": "医療情報システムの安全管理に関するガイドライン 第6版 追補",
+          "date": "2025-07-30",
+          "region": "JP",
+          "key_facts": ["版数: 第6版", "適用範囲: 医療機関・関連ベンダ"],
+          "summary": "第6版の追補。クラウド利用時の監査・ログ要件と生成AI活用時の留意点を明確化。",
+          "quote": null,
+          "citation": { "type": "web", "publisher": "MHLW", "link": "https://www.mhlw.go.jp/..." }
+        }
+      ]
+    },
+    {
+      "category": "funding_and_grants",
+      "name": "AMED（公募・ニュース）",
+      "url": "https://www.amed.go.jp/koubo/index.html",
+      "fetched_at": "2025-08-12T08:58:00Z",
+      "items": [
+        {
+          "title": "医療DX推進事業（在宅ケアデータ連携）公募開始",
+          "date": "2025-08-10",
+          "region": "JP",
+          "key_facts": ["募集: 共同研究", "締切: 2025-09-15"],
+          "summary": "在宅ケアにおけるデータ連携・利活用を促進する実証。医療機関・介護事業者・IT事業者の連携を想定。",
+          "quote": null,
+          "citation": { "type": "web", "publisher": "AMED", "link": "https://www.amed.go.jp/..." }
+        }
+      ]
+    }
+  ]
 }
