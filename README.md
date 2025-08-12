@@ -13,20 +13,20 @@ and publishes machine-readable outputs (`references.yaml` / `references.json`) t
 2) In GitHub, go to **Settings → Pages** and set:
    - Source: **GitHub Actions**
 
-#### ステップC: クリーンアップ内容をプッシュする
+### 4. すべての変更をGitHubにプッシュする
 
-上記の整理が完了したら、その内容をコミットしてプッシュします。
+上記の手順（1〜3）を実行した後、以下のコマンドで全ての変更をGitHubに反映させます。
 
 ```bash
-# 1. ここまでの削除と修正をすべてステージングします
+# 1. ここまでのすべての変更（ファイルの削除と修正）をステージングします
 git add .
 
-# 2. 整理内容をコミットします
-git commit -m "Refactor: Consolidate to new crawler system and remove obsolete code"
+# 2. 変更内容を分かりやすいメッセージで記録（コミット）します
+git commit -m "refactor: Consolidate to new crawler and add privacy policy"
 
-# 3. GitHubにプッシュします
+# 3. 変更をGitHubに送信（プッシュ）します
 git push
-3) The scheduled job (`.github/workflows/update_references.yml`) will generate/commit `datastore/references.*`.
+3) The scheduled job (`.github/workflows/update_references.yml`) will automatically generate and commit the `datastore/references.*` files.
 4) Access:
    - `https://KazuhisaShimmura.github.io/-med-ref/`
    - `https://KazuhisaShimmura.github.io/-med-ref/datastore/references.yaml`
