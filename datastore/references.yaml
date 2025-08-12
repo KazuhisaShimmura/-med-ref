@@ -1,253 +1,242 @@
-generated_at: '2025-08-12T08:46:31.755158Z'
+generated_at: '2025-08-12T21:25:34.790330+00:00'
 sources:
 - category: regulation_and_policy
-  name: PMDA – 医療機器関連通知・お知らせ
+  name: 厚労省 医療情報システム安全管理ガイドライン
+  url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
+  fetched_at: '2025-08-12T21:24:43.927163+00:00'
+  items:
+  - title: 医療分野の情報化に関するガイドライン、通知、会議報告
+    id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
+    date: '2025-08-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts:
+    - '版数: 0版'
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+      English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
+    change_type: new
+  - title: こちら
+    id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
+    date: '2025-08-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts:
+    - '版数: 0版'
+    summary: 医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
+      点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳で…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
+    change_type: new
+  - title: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等
+    id: sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4
+    date: '2025-08-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts: []
+    summary: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ
+      国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html
+    change_type: new
+  - title: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式
+    id: sha1:37028dc70c8729e310931257bd3b30faa2d33991
+    date: '2005-06-05'
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts:
+    - '版数: 0版'
+    summary: "å\x8C»ç\x99\x82æ\x83 å ±ã\x82·ã\x82¹ã\x83\x86ã\x83 ã\x81®å®\x89å ¨ç®¡ç\x90\
+      \x86ã\x81«é\x96¢ã\x81\x99ã\x82\x8Bã\x82¬ã\x82¤ã\x83\x89ã\x83©ã\x82¤ã\x83³ã\x80\
+      \x80ç¬¬6.0ç\x89\x88ï¼\x88ä»¤å\x92\x8C5å¹´5æ\x9C\x88ï¼\x89ï½\x9Cå\x8E\x9Aç\x94\
+      \x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ æ\x9C¬æ\x96\
+      \x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8Fã\x81\x9Bçª\x93å\x8F£ ã\x82\x88\
+      ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\
+      \x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81®å ´ ç\x82¹å­\x97ã\x83\x80ã\x82\
+      ¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 Eng…"
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
+    change_type: new
+  - title: 電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］
+    id: sha1:819ebc1f6f4e5513b3546dbef4d656ca2710518c
+    date: '2018-04-04'
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts: []
+    summary: 厚労省の関連更新（要詳細確認）。
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/content/10800000/000936478.pdf
+    change_type: new
+  - title: 別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］
+    id: sha1:0896f4e7c713d5c442eccae8446eb3b813879103
+    date: '2025-02-02'
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts:
+    - '版数: 1版'
+    summary: 厚労省の関連更新（要詳細確認）。
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/content/10800000/000936480.pdf
+    change_type: new
+- category: regulation_and_policy
+  name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-08-12T08:44:56.023952Z'
-  items: []
-- category: regulation_and_policy
-  name: FDA Digital Health Center of Excellence
-  url: https://www.fda.gov/medical-devices/digital-health-center-excellence
-  fetched_at: '2025-08-12T08:44:56.638516Z'
+  fetched_at: '2025-08-12T21:24:47.442484+00:00'
   items:
-  - title: FDA Guidance Documents
+  - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
+    id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
     date: null
-    region: US
+    jurisdiction: JP
+    doc_type: guidance
     key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Search for FDA Guidance Documents | FDA Skip to main content Skip to
-      FDA Search Skip to in this section menu Skip to footer links An official website
-      of the United States government Here’s how you know The .gov means it’s official.
-      Federal government websites …
-    quote: null
+    - '含意: Q&A'
+    summary: "æ\x83 å ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99 | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95\
+      äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B\
+      \ æ\x9C¬æ\x96\x87ã\x81¸ ã\x83\x9Bã\x83¼ã\x83 English site ã\x82µã\x82¤ã\x83\x88\
+      ã\x83\x9Eã\x83\x83ã\x83\x97 ã\x81\x8Aå\x95\x8Fã\x81\x84å\x90\x88ã\x82\x8Fã\x81\
+      \x9Bå \x88 æ\x96\x87å­\x97ã\x82µã\x82¤ã\x82ºå¤\x89æ\x9B´ æ¨\x99æº\x96 æ\x8B\
+      ¡å¤§ English ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ é\x96\x89ã\x81\x98ã\x82\x8B ã\x82\x88\
+      ã\x81\x8Fè¦\x8Bã\x82\x8Bã\x83\x9Aã\x83¼ã\x82¸ä¸\x80è¦§ æ¤\x9Cç´¢ å®\x89å ¨æ\x80\
+      §æ\x83…"
+    deadline: null
     citation:
       type: web
-      publisher: FDA
-      link: https://www.fda.gov/regulatory-information/search-fda-guidance-documents
-  - title: Press Announcements
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/info-services/0001.html
+    change_type: new
+  - title: "å®\x89å\N¨å¯¾ç­\x96ç­\x89æ\x8B å\x87ºé\x87\x91ã\x81®å¾´å\x8F\x8E"
+    id: sha1:c330419c9b930b501bf949c9de8c8e1013fe9741
     date: null
-    region: US
+    jurisdiction: JP
+    doc_type: guidance
     key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Press Announcements | FDA Skip to main content Skip to FDA Search Skip
-      to in this section menu Skip to footer links An official website of the United
-      States government Here’s how you know The .gov means it’s official. Federal
-      government websites often end in .…
-    quote: null
+    - '含意: Q&A'
+    summary: "å®\x89å ¨å¯¾ç­\x96ç­\x89æ\x8B å\x87ºé\x87\x91ã\x81®å¾´å\x8F\x8E | ç\x8B\
+      ¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99\
+      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B æ\x9C¬æ\x96\x87ã\x81¸ ã\x83\x9Bã\x83¼ã\x83 English\
+      \ site ã\x82µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\x83ã\x83\x97 ã\x81\x8Aå\x95\x8Fã\x81\
+      \x84å\x90\x88ã\x82\x8Fã\x81\x9Bå \x88 æ\x96\x87å­\x97ã\x82µã\x82¤ã\x82ºå¤\x89\
+      æ\x9B´ æ¨\x99æº\x96 æ\x8B¡å¤§ English ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ é\x96\x89\
+      ã\x81\x98ã\x82\x8B ã\x82\x88ã\x81\x8Fè¦\x8Bã\x82\x8Bã\x83\x9Aã\x83¼ã\x82¸ä¸\x80\
+      è¦§ æ¤\x9C…"
+    deadline: null
     citation:
       type: web
-      publisher: FDA
-      link: https://www.fda.gov/news-events/newsroom/press-announcements
-  - title: News and Events
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/info-services/safety-contributions/0001.html
+    change_type: new
+  - title: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A"
+    id: sha1:262b1b345e8202904328bb7b001d78f903f6379b
     date: null
-    region: US
+    jurisdiction: JP
+    doc_type: guidance
     key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: News & Events | FDA Skip to main content Skip to FDA Search Skip to in
-      this section menu Skip to footer links An official website of the United States
-      government Here’s how you know The .gov means it’s official. Federal government
-      websites often end in .gov or…
-    quote: null
+    - '含意: Q&A'
+    summary: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C\
+      »è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B æ\x9C\
+      ¬æ\x96\x87ã\x81¸ ã\x83\x9Bã\x83¼ã\x83 English site ã\x82µã\x82¤ã\x83\x88ã\x83\
+      \x9Eã\x83\x83ã\x83\x97 ã\x81\x8Aå\x95\x8Fã\x81\x84å\x90\x88ã\x82\x8Fã\x81\x9B\
+      å \x88 æ\x96\x87å­\x97ã\x82µã\x82¤ã\x82ºå¤\x89æ\x9B´ æ¨\x99æº\x96 æ\x8B¡å¤§\
+      \ English ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ é\x96\x89ã\x81\x98ã\x82\x8B ã\x82\x88\
+      ã\x81\x8Fè¦\x8Bã\x82\x8Bã\x83\x9Aã\x83¼ã\x82¸ä¸\x80è¦§ æ¤\x9Cç´¢ å®\x89å ¨æ\x80\
+      §æ\x83 å ±ã\x83…"
+    deadline: null
     citation:
       type: web
-      publisher: FDA
-      link: https://www.fda.gov/news-events
-  - title: Training and Continuing Education
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0014.html
+    change_type: new
+  - title: "æ\x82£è\x80\Nå\x90\x91å\x8C»è\x96¬å\x93\x81ã\x82¬ã\x82¤ã\x83\x89"
+    id: sha1:5976aaf44af4da3b51e42e479f7a4af75bead076
     date: null
-    region: US
+    jurisdiction: JP
+    doc_type: guidance
     key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Training and Continuing Education | FDA Skip to main content Skip to
-      FDA Search Skip to in this section menu Skip to footer links An official website
-      of the United States government Here’s how you know The .gov means it’s official.
-      Federal government websites …
-    quote: null
+    - '含意: Q&A'
+    summary: "æ\x82£è\x80 å\x90\x91å\x8C»è\x96¬å\x93\x81ã\x82¬ã\x82¤ã\x83\x89 | ç\x8B\
+      ¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99\
+      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B æ\x9C¬æ\x96\x87ã\x81¸ ã\x83\x9Bã\x83¼ã\x83 English\
+      \ site ã\x82µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\x83ã\x83\x97 ã\x81\x8Aå\x95\x8Fã\x81\
+      \x84å\x90\x88ã\x82\x8Fã\x81\x9Bå \x88 æ\x96\x87å­\x97ã\x82µã\x82¤ã\x82ºå¤\x89\
+      æ\x9B´ æ¨\x99æº\x96 æ\x8B¡å¤§ English ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ é\x96\x89\
+      ã\x81\x98ã\x82\x8B ã\x82\x88ã\x81\x8Fè¦\x8Bã\x82\x8Bã\x83\x9Aã\x83¼ã\x82¸ä¸\x80\
+      è¦§ æ¤\x9Cç´¢ å®…"
+    deadline: null
     citation:
       type: web
-      publisher: FDA
-      link: https://www.fda.gov/training-and-continuing-education
-  - title: Digital Health Center of Excellence
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0001.html
+    change_type: new
+  - title: "ã\x83¯ã\x82¯ã\x83\x81ã\x83³æ\x8E¥ç¨®ã\x82\x92å\x8F\x97ã\x81\x91ã\x82\x8B\
+      äººã\x81¸ã\x81®ã\x82¬ã\x82¤ã\x83\x89"
+    id: sha1:a4e6a5551706139ee49e9f51958652253a4dba2e
     date: null
-    region: US
+    jurisdiction: JP
+    doc_type: guidance
     key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Digital Health Center of Excellence | FDA Skip to main content Skip to
-      FDA Search Skip to in this section menu Skip to footer links An official website
-      of the United States government Here’s how you know The .gov means it’s official.
-      Federal government website…
-    quote: null
+    - '含意: Q&A'
+    summary: "ã\x83¯ã\x82¯ã\x83\x81ã\x83³æ\x8E¥ç¨®ã\x82\x92å\x8F\x97ã\x81\x91ã\x82\
+      \x8Bäººã\x81¸ã\x81®ã\x82¬ã\x82¤ã\x83\x89 | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº\
+      \ å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B\
+      \ æ\x9C¬æ\x96\x87ã\x81¸ ã\x83\x9Bã\x83¼ã\x83 English site ã\x82µã\x82¤ã\x83\x88\
+      ã\x83\x9Eã\x83\x83ã\x83\x97 ã\x81\x8Aå\x95\x8Fã\x81\x84å\x90\x88ã\x82\x8Fã\x81\
+      \x9Bå \x88 æ\x96\x87å­\x97ã\x82µã\x82¤ã\x82ºå¤\x89æ\x9B´ æ¨\x99æº\x96 æ\x8B\
+      ¡å¤§ English ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ é\x96\x89ã\x81\x98ã\x82\x8B ã\x82\x88\
+      ã\x81\x8Fè¦\x8Bã\x82\x8Bã\x83\x9Aã…"
+    deadline: null
     citation:
       type: web
-      publisher: FDA
-      link: https://www.fda.gov/medical-devices/digital-health-center-excellence
-  - title: Medical Devices that Incorporate Sensor-based Digital Health Technology
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/vacc-guide/0001.html
+    change_type: new
+  - title: "ä¸\x80è\x88¬ç\x94¨å\x8C»è\x96¬å\x93\x81ï¼\x8Fè¦\x81æ\x8C\x87å°\x8Eå\x8C\
+      »è\x96¬å\x93\x81ã\x81®æ·»ä»\x98æ\x96\x87æ\x9B¸"
+    id: sha1:e329f7fc9b6b454bb63e458d9d6e3028a78aefde
     date: null
-    region: US
-    key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Medical Devices that Incorporate Sensor-based Digital Health Technology
-      | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip
-      to footer links An official website of the United States government Here’s how
-      you know The .gov means it’s …
-    quote: null
-    citation:
-      type: web
-      publisher: FDA
-      link: https://www.fda.gov/medical-devices/digital-health-center-excellence/medical-devices-incorporate-sensor-based-digital-health-technology
-  - title: About the Digital Health Center of Excellence
-    date: null
-    region: US
-    key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: About the Digital Health Center of Excellence | FDA Skip to main content
-      Skip to FDA Search Skip to in this section menu Skip to footer links An official
-      website of the United States government Here’s how you know The .gov means it’s
-      official. Federal governme…
-    quote: null
-    citation:
-      type: web
-      publisher: FDA
-      link: https://www.fda.gov/medical-devices/digital-health-center-excellence/about-digital-health-center-excellence
-  - title: Digital Health Frequently Asked Questions (FAQs)
-    date: null
-    region: US
-    key_facts:
-    - '含意: guidance'
-    - '含意: AI'
-    summary: Digital Health Frequently Asked Questions (FAQs) | FDA Skip to main content
-      Skip to FDA Search Skip to in this section menu Skip to footer links An official
-      website of the United States government Here’s how you know The .gov means it’s
-      official. Federal gover…
-    quote: null
-    citation:
-      type: web
-      publisher: FDA
-      link: https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-frequently-asked-questions-faqs
-- category: regulation_and_policy
-  name: EU MDR (DG SANTE)
-  url: https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
-  fetched_at: '2025-08-12T08:44:58.187075Z'
-  items:
-  - title: en
-    date: null
-    region: EU
-    key_facts:
-    - '含意: transition'
-    summary: New Regulations - European Commission Skip to main content en Select
-      your language Close bg български es español cs čeština da dansk de Deutsch et
-      eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano
-      lv latviešu lt lietuvių hu magyar mt …
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_en
-  - title: bgбългарски
-    date: null
-    region: EU
+    jurisdiction: JP
+    doc_type: other
     key_facts: []
-    summary: Нови регламенти - Европейска комисия Направо към основното съдържание
-      bg Select your language Затваряне bg български es español cs čeština da dansk
-      de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski
-      it italiano lv latviešu lt lietuvi…
-    quote: null
+    summary: "ä¸\x80è\x88¬ç\x94¨å\x8C»è\x96¬å\x93\x81ã\x83»è¦\x81æ\x8C\x87å°\x8Eå\x8C\
+      »è\x96¬å\x93\x81æ·»ä»\x98æ\x96\x87æ\x9B¸ | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº\
+      \ å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B"
+    deadline: null
     citation:
       type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_bg
-  - title: esespañol
-    date: null
-    region: EU
-    key_facts: []
-    summary: Nuevos Reglamentos - Comisión Europea Ir al contenido principal es Select
-      your language Cerrar bg български es español cs čeština da dansk de Deutsch
-      et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano
-      lv latviešu lt lietuvių hu magy…
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_es
-  - title: csčeština
-    date: null
-    region: EU
-    key_facts: []
-    summary: Nová nařízení - Evropská komise Přejít na hlavní obsah cs Select your
-      language Zavřít bg български es español cs čeština da dansk de Deutsch et eesti
-      el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu
-      lt lietuvių hu magyar mt Mal…
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_cs
-  - title: dadansk
-    date: null
-    region: EU
-    key_facts: []
-    summary: Nye forordninger - Europa-Kommissionen Gå til hovedindholdet da Select
-      your language Luk bg български es español cs čeština da dansk de Deutsch et
-      eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano
-      lv latviešu lt lietuvių hu magyar mt …
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_da
-  - title: deDeutsch
-    date: null
-    region: EU
-    key_facts: []
-    summary: Neue Verordnungen - Europäische Kommission Zum Hauptinhalt de Select
-      your language Schließen bg български es español cs čeština da dansk de Deutsch
-      et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano
-      lv latviešu lt lietuvių hu magyar…
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_de
-  - title: eteesti
-    date: null
-    region: EU
-    key_facts: []
-    summary: Uued määrused - Euroopa Komisjon Põhisisu juurde et Select your language
-      Sulge bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά
-      en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių
-      hu magyar mt Malti nl N…
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_et
-  - title: elελληνικά
-    date: null
-    region: EU
-    key_facts: []
-    summary: Νέοι κανονισμοί - Ευρωπαϊκή Επιτροπή Μετάβαση στο κύριο περιεχόμενο el
-      Select your language Κλείσιμο bg български es español cs čeština da dansk de
-      Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it
-      italiano lv latviešu lt lietuvių h…
-    quote: null
-    citation:
-      type: web
-      publisher: EC DG SANTE
-      link: https://health.ec.europa.eu/medical-devices-sector/new-regulations_el
+      publisher: PMDA
+      link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/otc-pack-ins/0001.html
+    change_type: new
 - category: funding_and_grants
-  name: AMED（公募・ニュース）
+  name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-08-12T08:46:31.157768Z'
+  fetched_at: '2025-08-12T21:25:32.119013+00:00'
   items:
   - title: 海外事業所の活動報告
+    id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -257,14 +246,17 @@ sources:
       問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 …
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/aboutus/katsudou.html
+    change_type: unchanged
   - title: 事業・推進部門
+    id: sha1:79aa54c7982941e696359f320a4d7f331ea510f7
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -274,14 +266,17 @@ sources:
       問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別…
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/aboutus/busho_index.html
+    change_type: unchanged
   - title: AMED事業に関する各種データ・委託調査等
+    id: sha1:b6914f3977bdd7d5f2d89b1639006f6b31a74cf8
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -291,31 +286,38 @@ sources:
       メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/aboutus/i-analysis.index.html
+    change_type: unchanged
   - title: 性差を考慮した研究開発の推進
+    id: sha1:22fa12df7cc00d98c8fab374c8e846e3ec52eefd
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
     - '含意: 研究開発'
     - '含意: 事業'
+    - '含意: 助成'
     summary: 性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報
       アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等
       海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等
       性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事…
-    quote: null
+    deadline: '2025-11-21'
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/program/list/18/01/seisakenkyu.html
+    change_type: unchanged
   - title: 事業紹介
+    id: sha1:d8f7e0a108d4ad28d37fdfb7e45f2542d6228aa1
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -325,14 +327,17 @@ sources:
       メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/program/index.html
+    change_type: unchanged
   - title: 国際事業
+    id: sha1:0a6e10517e371260a5a92367107272f59f080519
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -342,14 +347,17 @@ sources:
       問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別…
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/program/list/20/index.html
+    change_type: unchanged
   - title: 事業成果
+    id: sha1:d314f616e3e1797b20ed18061525838b75f44280
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
@@ -359,154 +367,108 @@ sources:
       メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/seika/index.html
+    change_type: unchanged
   - title: AMED研究開発課題データベース（AMEDfind）
+    id: sha1:fa9d9c9744c2fdb06d91298d3971e3cc1b1934aa
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 研究開発'
-    summary: AMEDページの更新（要詳細確認）。
-    quote: null
+    summary: AMEDの関連更新（要詳細確認）。
+    deadline: null
     citation:
       type: web
       publisher: AMED
       link: https://amedfind.amed.go.jp/amed/index.html
-  - title: 海外事業所の活動報告
+    change_type: updated
+  - title: 研究事業成果集
+    id: sha1:64df3135e5a33da0a79103daca3a55641766f28c
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
     - '含意: 研究開発'
     - '含意: 事業'
-    summary: 海外事務所の活動報告 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス
+    summary: AMED研究事業成果集 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス
       問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
-      事業紹介 開閉ボタン 事業紹介 …
-    quote: null
+      事業紹介 開閉ボタン 事業紹介…
+    deadline: null
     citation:
       type: web
       publisher: AMED
-      link: https://www.amed.go.jp/aboutus/katsudou.html
-  - title: 事業・推進部門
+      link: https://www.amed.go.jp/pr/kenkyujigyoseika.html
+    change_type: new
+  - title: 公募情報
+    id: sha1:9c6da1e29aa4ab0df212dcaf58cffb321661111f
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
     - '含意: 研究開発'
     - '含意: 事業'
-    summary: 事業・推進部門 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス
-      問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
-      国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
-      事業紹介 開閉ボタン 事業紹介 分野別…
-    quote: null
-    citation:
-      type: web
-      publisher: AMED
-      link: https://www.amed.go.jp/aboutus/busho_index.html
-  - title: AMED事業に関する各種データ・委託調査等
-    date: null
-    region: JP
-    key_facts:
-    - '含意: 公募'
-    - '含意: 採択'
-    - '含意: 研究開発'
-    - '含意: 事業'
-    summary: 情報分析 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先
+    summary: 公募情報 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先
       メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
       事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
+    deadline: null
     citation:
       type: web
       publisher: AMED
-      link: https://www.amed.go.jp/aboutus/i-analysis.index.html
-  - title: 性差を考慮した研究開発の推進
+      link: https://www.amed.go.jp/koubo/index.html
+    change_type: new
+  - title: 公募情報検索
+    id: sha1:1252b698ad8fbc2f17627e21ad9a2872f70790d9
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
     - '含意: 研究開発'
     - '含意: 事業'
-    summary: 性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報
-      アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等
-      海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等
-      性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事…
-    quote: null
+    summary: 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録
+      トップ 公募情報 公募情報検索 公募情報検索 色々な条件から探す 利用方法についてはこちら AMED事業の公募の相談はこちら 他の研究資金配分機関（FA）における公募情報の検索はこちら
+      公募カレンダー フリーワード 公募情報 現在公募中 公募予告 公募情報（過去の公募情報も含む） 採択結果 分野 （プロジェクト等） 全て 医薬品プロジェクト
+      医療機器・ヘルスケアプロジェクト …
+    deadline: null
     citation:
       type: web
       publisher: AMED
-      link: https://www.amed.go.jp/program/list/18/01/seisakenkyu.html
-  - title: 事業紹介
+      link: https://www.amed.go.jp/search.php
+    change_type: new
+  - title: 公募相談窓口
+    id: sha1:37622a0c3e7af1190ef540af6ddcd4f866aea830
     date: null
-    region: JP
+    jurisdiction: JP
+    doc_type: call
     key_facts:
     - '含意: 公募'
     - '含意: 採択'
     - '含意: 研究開発'
     - '含意: 事業'
-    summary: 事業紹介 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先
-      メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
-      国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
-      事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
-    citation:
-      type: web
-      publisher: AMED
-      link: https://www.amed.go.jp/program/index.html
-  - title: 国際事業
-    date: null
-    region: JP
-    key_facts:
-    - '含意: 公募'
-    - '含意: 採択'
-    - '含意: 研究開発'
-    - '含意: 事業'
-    summary: 国際戦略推進部 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス
+    summary: お問い合わせ先一覧 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス
       問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
       国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
-      事業紹介 開閉ボタン 事業紹介 分野別…
-    quote: null
+      事業紹介 開閉ボタン 事業紹介 分…
+    deadline: null
     citation:
       type: web
       publisher: AMED
-      link: https://www.amed.go.jp/program/list/20/index.html
-  - title: 事業成果
-    date: null
-    region: JP
-    key_facts:
-    - '含意: 公募'
-    - '含意: 採択'
-    - '含意: 研究開発'
-    - '含意: 事業'
-    summary: 事業成果 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先
-      メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告
-      国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進
-      事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    quote: null
-    citation:
-      type: web
-      publisher: AMED
-      link: https://www.amed.go.jp/seika/index.html
-  - title: AMED研究開発課題データベース（AMEDfind）
-    date: null
-    region: JP
-    key_facts:
-    - '含意: 研究開発'
-    summary: AMEDページの更新（要詳細確認）。
-    quote: null
-    citation:
-      type: web
-      publisher: AMED
-      link: https://amedfind.amed.go.jp/amed/index.html
+      link: https://www.amed.go.jp/contact/index.html
+    change_type: new
 - category: funding_and_grants
-  name: JST（公募情報）
+  name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-08-12T08:46:31.754935Z'
+  fetched_at: '2025-08-12T21:25:33.281793+00:00'
   items: []
