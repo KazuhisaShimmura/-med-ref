@@ -1,32 +1,11 @@
-from .common import make_source, get_html, extract_text, parse_date_safe
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from .common import make_source, get_html, extract_text, parse_date_safe, collect_links_from_html
 
 # JST: 公募情報（総合）
 BASE_PAGES = [
     "https://www.jst.go.jp/koubo/",
 ]
 
-KEYWORDS = ("公募", "募集", "予告", "採択", "助成", "研究", "事業", "学術", "プログラム")
-
-def _collect_links(base_url, html):
-    soup = BeautifulSoup(html, "lxml")
-    links = []
-    for a in soup.find_all("a"):
-        href = a.get("href") or ""
-        text = (a.get_text() or "").strip()
-        if not href:
-            continue
-        full = urljoin(base_url, href)
-        if any(k in text for k in KEYWORDS):
-            links.append((full, text or full))
-    # de-dup
-    seen, uniq = set(), []
-    for u, t in links:
-        if u in seen: 
-            continue
-        seen.add(u); uniq.append((u, t))
-    return uniq
+JST_KEYWORDS = ("公募", "募集", "予告", "採択", "助成", "研究", "事業", "学術", "プログラム")
 
 def fetch_jst(max_pages=1, max_items_per_page=10):
     items = []
@@ -35,7 +14,7 @@ def fetch_jst(max_pages=1, max_items_per_page=10):
             html = get_html(entry)
         except Exception:
             continue
-        for href, label in _collect_links(entry, html)[:max_items_per_page]:
+        for href, label in collect_links_from_html(entry, html, JST_KEYWORDS)[:max_items_per_page]:
             try:
                 sub_html = get_html(href)
             except Exception:

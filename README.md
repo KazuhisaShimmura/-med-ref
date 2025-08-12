@@ -4,19 +4,19 @@ This repository hosts a minimal pipeline that **fetches key healthcare-business 
 and publishes machine-readable outputs (`references.yaml` / `references.json`) that you can point your *custom GPT* to.
 
 - Output files are in: `datastore/`
-- GitHub Pages serves them at: `https://<your-username>.github.io/med-ref/datastore/references.yaml` (and `.json`)
+- GitHub Pages serves them at: `https://KazuhisaShimmura.github.io/-med-ref/datastore/references.yaml` (and `.json`)
 - A scheduled GitHub Action runs daily at **06:00 JST** to refresh data.
 
 ## Quick Start
 
-1) Create a new GitHub repo named `med-ref` and push these files.
+1) Create a new GitHub repo (e.g., `-med-ref`) and push these files.
 2) In GitHub, go to **Settings → Pages** and set:
    - Source: **GitHub Actions**
 3) The scheduled job (`.github/workflows/crawl.yml`) will generate/commit `datastore/references.*`.
 4) Access:
-   - `https://<your-username>.github.io/med-ref/`
-   - `https://<your-username>.github.io/med-ref/datastore/references.yaml`
-   - `https://<your-username>.github.io/med-ref/datastore/references.json`
+   - `https://KazuhisaShimmura.github.io/-med-ref/`
+   - `https://KazuhisaShimmura.github.io/-med-ref/datastore/references.yaml`
+   - `https://KazuhisaShimmura.github.io/-med-ref/datastore/references.json`
 
 ## Local Run
 
