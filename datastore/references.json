@@ -1,20 +1,260 @@
 {
-  "generated_at": "2025-08-12T09:00:00Z",
+  "generated_at": "2025-08-12T08:46:31.755158Z",
   "sources": [
     {
       "category": "regulation_and_policy",
-      "name": "厚労省 医療情報システム安全管理ガイドライン",
-      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-08-12T08:59:00Z",
+      "name": "PMDA – 医療機器関連通知・お知らせ",
+      "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
+      "fetched_at": "2025-08-12T08:44:56.023952Z",
+      "items": []
+    },
+    {
+      "category": "regulation_and_policy",
+      "name": "FDA Digital Health Center of Excellence",
+      "url": "https://www.fda.gov/medical-devices/digital-health-center-excellence",
+      "fetched_at": "2025-08-12T08:44:56.638516Z",
       "items": [
         {
-          "title": "医療情報システムの安全管理に関するガイドライン 第6版 追補",
-          "date": "2025-07-30",
-          "region": "JP",
-          "key_facts": ["版数: 第6版", "適用範囲: 医療機関・関連ベンダ"],
-          "summary": "第6版の追補。クラウド利用時の監査・ログ要件と生成AI活用時の留意点を明確化。",
+          "title": "FDA Guidance Documents",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Search for FDA Guidance Documents | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites …",
           "quote": null,
-          "citation": { "type": "web", "publisher": "MHLW", "link": "https://www.mhlw.go.jp/..." }
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents"
+          }
+        },
+        {
+          "title": "Press Announcements",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Press Announcements | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/news-events/newsroom/press-announcements"
+          }
+        },
+        {
+          "title": "News and Events",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "News & Events | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/news-events"
+          }
+        },
+        {
+          "title": "Training and Continuing Education",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Training and Continuing Education | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/training-and-continuing-education"
+          }
+        },
+        {
+          "title": "Digital Health Center of Excellence",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Digital Health Center of Excellence | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government website…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/medical-devices/digital-health-center-excellence"
+          }
+        },
+        {
+          "title": "Medical Devices that Incorporate Sensor-based Digital Health Technology",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Medical Devices that Incorporate Sensor-based Digital Health Technology | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/medical-devices-incorporate-sensor-based-digital-health-technology"
+          }
+        },
+        {
+          "title": "About the Digital Health Center of Excellence",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "About the Digital Health Center of Excellence | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal governme…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/about-digital-health-center-excellence"
+          }
+        },
+        {
+          "title": "Digital Health Frequently Asked Questions (FAQs)",
+          "date": null,
+          "region": "US",
+          "key_facts": [
+            "含意: guidance",
+            "含意: AI"
+          ],
+          "summary": "Digital Health Frequently Asked Questions (FAQs) | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal gover…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "FDA",
+            "link": "https://www.fda.gov/medical-devices/digital-health-center-excellence/digital-health-frequently-asked-questions-faqs"
+          }
+        }
+      ]
+    },
+    {
+      "category": "regulation_and_policy",
+      "name": "EU MDR (DG SANTE)",
+      "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_en",
+      "fetched_at": "2025-08-12T08:44:58.187075Z",
+      "items": [
+        {
+          "title": "en",
+          "date": null,
+          "region": "EU",
+          "key_facts": [
+            "含意: transition"
+          ],
+          "summary": "New Regulations - European Commission Skip to main content en Select your language Close bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar mt …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_en"
+          }
+        },
+        {
+          "title": "bgбългарски",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Нови регламенти - Европейска комисия Направо към основното съдържание bg Select your language Затваряне bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvi…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_bg"
+          }
+        },
+        {
+          "title": "esespañol",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Nuevos Reglamentos - Comisión Europea Ir al contenido principal es Select your language Cerrar bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magy…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_es"
+          }
+        },
+        {
+          "title": "csčeština",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Nová nařízení - Evropská komise Přejít na hlavní obsah cs Select your language Zavřít bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar mt Mal…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_cs"
+          }
+        },
+        {
+          "title": "dadansk",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Nye forordninger - Europa-Kommissionen Gå til hovedindholdet da Select your language Luk bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar mt …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_da"
+          }
+        },
+        {
+          "title": "deDeutsch",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Neue Verordnungen - Europäische Kommission Zum Hauptinhalt de Select your language Schließen bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_de"
+          }
+        },
+        {
+          "title": "eteesti",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Uued määrused - Euroopa Komisjon Põhisisu juurde et Select your language Sulge bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar mt Malti nl N…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_et"
+          }
+        },
+        {
+          "title": "elελληνικά",
+          "date": null,
+          "region": "EU",
+          "key_facts": [],
+          "summary": "Νέοι κανονισμοί - Ευρωπαϊκή Επιτροπή Μετάβαση στο κύριο περιεχόμενο el Select your language Κλείσιμο bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių h…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "EC DG SANTE",
+            "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations_el"
+          }
         }
       ]
     },
@@ -22,18 +262,298 @@
       "category": "funding_and_grants",
       "name": "AMED（公募・ニュース）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-08-12T08:58:00Z",
+      "fetched_at": "2025-08-12T08:46:31.157768Z",
       "items": [
         {
-          "title": "医療DX推進事業（在宅ケアデータ連携）公募開始",
-          "date": "2025-08-10",
+          "title": "海外事業所の活動報告",
+          "date": null,
           "region": "JP",
-          "key_facts": ["募集: 共同研究", "締切: 2025-09-15"],
-          "summary": "在宅ケアにおけるデータ連携・利活用を促進する実証。医療機関・介護事業者・IT事業者の連携を想定。",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "海外事務所の活動報告 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 …",
           "quote": null,
-          "citation": { "type": "web", "publisher": "AMED", "link": "https://www.amed.go.jp/..." }
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/katsudou.html"
+          }
+        },
+        {
+          "title": "事業・推進部門",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業・推進部門 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/busho_index.html"
+          }
+        },
+        {
+          "title": "AMED事業に関する各種データ・委託調査等",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "情報分析 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/i-analysis.index.html"
+          }
+        },
+        {
+          "title": "性差を考慮した研究開発の推進",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/list/18/01/seisakenkyu.html"
+          }
+        },
+        {
+          "title": "事業紹介",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業紹介 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/index.html"
+          }
+        },
+        {
+          "title": "国際事業",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "国際戦略推進部 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/list/20/index.html"
+          }
+        },
+        {
+          "title": "事業成果",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業成果 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/seika/index.html"
+          }
+        },
+        {
+          "title": "AMED研究開発課題データベース（AMEDfind）",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 研究開発"
+          ],
+          "summary": "AMEDページの更新（要詳細確認）。",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://amedfind.amed.go.jp/amed/index.html"
+          }
+        },
+        {
+          "title": "海外事業所の活動報告",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "海外事務所の活動報告 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/katsudou.html"
+          }
+        },
+        {
+          "title": "事業・推進部門",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業・推進部門 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/busho_index.html"
+          }
+        },
+        {
+          "title": "AMED事業に関する各種データ・委託調査等",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "情報分析 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/aboutus/i-analysis.index.html"
+          }
+        },
+        {
+          "title": "性差を考慮した研究開発の推進",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/list/18/01/seisakenkyu.html"
+          }
+        },
+        {
+          "title": "事業紹介",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業紹介 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/index.html"
+          }
+        },
+        {
+          "title": "国際事業",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "国際戦略推進部 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別…",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/program/list/20/index.html"
+          }
+        },
+        {
+          "title": "事業成果",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "事業成果 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） AMED事業に関する各種データ・委託調査等 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/seika/index.html"
+          }
+        },
+        {
+          "title": "AMED研究開発課題データベース（AMEDfind）",
+          "date": null,
+          "region": "JP",
+          "key_facts": [
+            "含意: 研究開発"
+          ],
+          "summary": "AMEDページの更新（要詳細確認）。",
+          "quote": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://amedfind.amed.go.jp/amed/index.html"
+          }
         }
       ]
+    },
+    {
+      "category": "funding_and_grants",
+      "name": "JST（公募情報）",
+      "url": "https://www.jst.go.jp/koubo/",
+      "fetched_at": "2025-08-12T08:46:31.754935Z",
+      "items": []
     }
   ]
 }
