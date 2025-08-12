@@ -27,7 +27,16 @@ def run():
 
     # Summarize
     for s in all_sources:
-        s['items'] = [summarize_items(i) for i in s.get('items', [])]
+        summarized_items = []
+        for item in s.get('items', []):
+            try:
+                # Attempt to summarize each item
+                summarized_items.append(summarize_items(item))
+            except Exception as e:
+                logging.error(f"Failed to summarize item '{item.get('title', 'N/A')}': {e}", exc_info=True)
+                # If summarization fails, append the original item to avoid data loss
+                summarized_items.append(item)
+        s['items'] = summarized_items
 
     bundle = {
         'generated_at': datetime.datetime.utcnow().isoformat() + 'Z',
