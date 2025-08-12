@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><title>med-ref</title></head>
+<body>
+  <h1>Healthcare Business References</h1>
+  <p>Generated: <span id="gen"></span></p>
+  <ul>
+    <li><a href="datastore/references.yaml">references.yaml</a></li>
+    <li><a href="datastore/references.json">references.json</a></li>
+  </ul>
+  <script>
+    // Attempt to show generated_at from JSON (optional, fails silently offline)
+    fetch('datastore/references.json').then(r=>r.json()).then(j=>{
+      document.getElementById('gen').innerText = j.generated_at || 'n/a';
+    }).catch(()=>{});
+  </script>
+</body>
+</html>

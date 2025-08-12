@@ -1,0 +1,27 @@
+  CHANGELOG.md
+  README.md
+  VERSION
+  index.html
+  pipeline.py
+  requirements.txt
+fetchers/
+  amed.py
+  common.py
+  eu_mdr.py
+  fda.py
+  funding.py
+  jst.py
+  market.py
+  mhlw_guideline.py
+  pmda.py
+  pmda_medical_devices.py
+  regulation.py
+summarizer/
+  summarize.py
+datastore/
+  references.json
+  references.yaml
+publisher/
+.github/
+  workflows/
+    crawl.yml
