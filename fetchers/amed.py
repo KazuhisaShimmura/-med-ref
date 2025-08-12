@@ -1,5 +1,4 @@
-from .common import make_source, get_html, extract_text, parse_date_safe
-from bs4 import BeautifulSoup
+from .common import make_source, get_html, extract_text, parse_date_safe, collect_links_from_html
 from urllib.parse import urljoin
 
 # AMED: 公募情報・ニュース
@@ -10,25 +9,6 @@ BASE_PAGES = [
 
 KEYWORDS = ("公募", "募集", "採択", "研究開発", "事業", "令和", "公示", "助成")
 
-def _collect_links(base_url, html):
-    soup = BeautifulSoup(html, "lxml")
-    links = []
-    for a in soup.find_all("a"):
-        href = a.get("href") or ""
-        text = (a.get_text() or "").strip()
-        if not href:
-            continue
-        full = urljoin(base_url, href)
-        if any(k in text for k in KEYWORDS):
-            links.append((full, text or full))
-    # de-dup
-    seen, uniq = set(), []
-    for u, t in links:
-        if u in seen: 
-            continue
-        seen.add(u); uniq.append((u, t))
-    return uniq
-
 def fetch_amed(max_pages=2, max_items_per_page=8):
     items = []
     for entry in BASE_PAGES[:max_pages]:
@@ -36,7 +16,7 @@ def fetch_amed(max_pages=2, max_items_per_page=8):
             html = get_html(entry)
         except Exception:
             continue
-        for href, label in _collect_links(entry, html)[:max_items_per_page]:
+        for href, label in collect_links_from_html(entry, html, KEYWORDS)[:max_items_per_page]:
             try:
                 sub_html = get_html(href)
             except Exception:
