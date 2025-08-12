@@ -1,23 +1,31 @@
-name: crawl
+name: Update references (daily)
 
 on:
   schedule:
-    - cron: "0 21 * * *" # 06:00 JST daily
-  workflow_dispatch:
+    - cron: "0 21 * * *"   # JST 06:00（UTC 21:00）に毎日実行
+  workflow_dispatch:       # 手動実行ボタン
 
 jobs:
-  run:
+  update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # git-auto-commit-actionがリポジトリに書き込むために必要
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -r requirements.txt
-      - run: python pipeline.py
-      - name: Commit & Push updated references
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run updater
+        run: python pipeline.py
+
+      - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update data: $(date -u +%FT%TZ)"

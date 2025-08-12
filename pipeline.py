@@ -38,6 +38,10 @@ def run():
                 summarized_items.append(item)
         s['items'] = summarized_items
 
+    # Log a final summary before writing files
+    total_items = sum(len(s.get('items', [])) for s in all_sources)
+    logging.info(f"Pipeline finished. Total sources: {len(all_sources)}, Total items: {total_items}.")
+
     bundle = {
         'generated_at': datetime.datetime.utcnow().isoformat() + 'Z',
         'sources': all_sources

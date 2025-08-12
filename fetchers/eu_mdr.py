@@ -1,5 +1,4 @@
-from .common import make_source, get_html, extract_text, parse_date_safe
-from bs4 import BeautifulSoup
+from .common import make_source, get_html, extract_text, parse_date_safe, collect_links_from_html
 from urllib.parse import urljoin
 
 BASE_URL = "https://health.ec.europa.eu/medical-devices-sector/new-regulations_en"
