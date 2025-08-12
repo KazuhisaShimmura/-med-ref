@@ -3,12 +3,27 @@ from fetchers.regulation import fetch_regulation
 from fetchers.funding import fetch_funding
 from summarizer.summarize import summarize_items
 from pathlib import Path
-import json, yaml, datetime
+import json, yaml, datetime, logging
+
+# Setup basic logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def run():
     all_sources = []
-    for fetch in [fetch_market, fetch_regulation, fetch_funding]:
-        all_sources.extend(fetch())
+    fetch_functions = {
+        "market": fetch_market,
+        "regulation": fetch_regulation,
+        "funding": fetch_funding
+    }
+
+    for name, fetch_func in fetch_functions.items():
+        try:
+            logging.info(f"Fetching {name} sources...")
+            sources = fetch_func()
+            all_sources.extend(sources)
+            logging.info(f"Successfully fetched {len(sources)} source(s) from {name}.")
+        except Exception as e:
+            logging.error(f"Failed to fetch {name} sources: {e}", exc_info=True)
 
     # Summarize
     for s in all_sources:

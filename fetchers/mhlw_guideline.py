@@ -1,43 +1,14 @@
-from .common import make_source, get_html, extract_text, parse_date_safe
-from bs4 import BeautifulSoup
+from .common import make_source, get_html, extract_text, parse_date_safe, collect_links_from_html
 from urllib.parse import urljoin
+import re
 
 BASE_URL = "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html"
 
 KEYWORDS = ("医療情報システム", "安全管理", "ガイドライン")
 
-def _is_target_link(a):
-    text = (a.get_text() or "").strip()
-    href = a.get("href") or ""
-    if not href:
-        return False
-    # prioritize same-domain & johoka subtree
-    if not href.startswith("http"):
-        href_full = urljoin(BASE_URL, href)
-    else:
-        href_full = href
-    # keyword-based filter
-    hit_kw = any(k in text for k in KEYWORDS) or any(k in href for k in ("johoka", "guideline", "gl"))
-    return hit_kw, href_full, text if text else href_full
-
 def fetch_mhlw_guideline(max_links=8):
     html = get_html(BASE_URL)
-    soup = BeautifulSoup(html, "lxml")
-    links = soup.find_all("a")
-    candidates = []
-    for a in links:
-        ok, href_full, label = _is_target_link(a)
-        if ok:
-            candidates.append((href_full, label))
-    # de-dup while preserving order
-    seen = set()
-    uniq = []
-    for href, label in candidates:
-        if href in seen: 
-            continue
-        seen.add(href)
-        uniq.append((href, label))
-
+    uniq = collect_links_from_html(BASE_URL, html, KEYWORDS, domain_filter="mhlw.go.jp")
     items = []
     for href, label in uniq[:max_links]:
         try:

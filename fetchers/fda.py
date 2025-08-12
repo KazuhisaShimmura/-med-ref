@@ -12,7 +12,7 @@ def fetch_fda(max_items=8):
     except Exception:
         html = ""
     if html:
-        for href, label in _collect_links(BASE_URL, html)[:max_items]:
+        for href, label in collect_links_from_html(BASE_URL, html, KEYWORDS, domain_filter="fda.gov")[:max_items]:
             try:
                 sub_html = get_html(href)
             except Exception:

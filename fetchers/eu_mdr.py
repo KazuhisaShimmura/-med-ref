@@ -6,26 +6,6 @@ BASE_URL = "https://health.ec.europa.eu/medical-devices-sector/new-regulations_e
 
 KEYWORDS = ("MDR", "IVDR", "guidance", "transition", "regulation", "notice", "Q&A", "FAQ", "implementing", "delegated")
 
-def _collect_links(base_url, html):
-    soup = BeautifulSoup(html, "lxml")
-    links = []
-    for a in soup.find_all("a"):
-        href = a.get("href") or ""
-        text = (a.get_text() or "").strip()
-        if not href:
-            continue
-        full = urljoin(base_url, href)
-        # limit to ec.europa.eu domain & relevant to MDR/IVDR
-        if "ec.europa.eu" in full and any(k.lower() in (text + " " + href).lower() for k in KEYWORDS):
-            links.append((full, text or full))
-    # de-dup
-    seen, uniq = set(), []
-    for u, t in links:
-        if u in seen: 
-            continue
-        seen.add(u); uniq.append((u, t))
-    return uniq
-
 def fetch_eu_mdr(max_items=8):
     items = []
     try:
@@ -33,7 +13,7 @@ def fetch_eu_mdr(max_items=8):
     except Exception:
         html = ""
     if html:
-        for href, label in _collect_links(BASE_URL, html)[:max_items]:
+        for href, label in collect_links_from_html(BASE_URL, html, KEYWORDS, domain_filter="ec.europa.eu")[:max_items]:
             try:
                 sub_html = get_html(href)
             except Exception:
