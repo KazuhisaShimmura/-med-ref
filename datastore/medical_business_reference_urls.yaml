@@ -1,29 +1,153 @@
 medical_business_reference_urls:
   market_and_trends:
-    - name: Global Market Insights – Healthcare
-      url: https://www.gminsights.com/industry-analysis/healthcare
-      note: 医療機器・デジタルヘルス・AI市場のCAGRや予測
+  - name: Global Market Insights – Healthcare
+    url: https://www.gminsights.com/industry-analysis/healthcare
+    note: 医療機器・デジタルヘルス・AI市場のCAGRや予測
   competitors_and_cases:
-    - name: CB Insights – Digital Health
-      url: https://www.cbinsights.com/research/digital-health-startups/
-      note: 資金調達動向、企業比較、カテゴリ別マップ
+  - name: CB Insights – Digital Health
+    url: https://www.cbinsights.com/research/digital-health-startups/
+    note: 資金調達動向、企業比較、カテゴリ別マップ
   regulation_and_policy:
-    - name: PMDA – 医療機器
-      url: https://www.pmda.go.jp/review-services/inspections/0001.html
-      note: 医療機器の承認・認証フロー
+  - name: PMDA – 医療機器
+    url: https://www.pmda.go.jp/review-services/inspections/0001.html
+    note: 医療機器の承認・認証フロー
   technology_and_standards:
-    - name: HL7 International
-      url: https://www.hl7.org/
-      note: 医療データ標準（FHIRなど）
+  - name: HL7 International
+    url: https://www.hl7.org/
+    note: 医療データ標準（FHIRなど）
   funding_and_grants:
-    - name: AMED
-      url: https://www.amed.go.jp/
-      note: 医療・介護分野の研究開発助成
+  - name: AMED
+    url: https://www.amed.go.jp/
+    note: 医療・介護分野の研究開発助成
   statistics_and_evidence:
-    - name: e-Stat
-      url: https://www.e-stat.go.jp/
-      note: 日本の医療統計（病院数、患者数、医療費など）
+  - name: e-Stat
+    url: https://www.e-stat.go.jp/
+    note: 日本の医療統計（病院数、患者数、医療費など）
   networking_and_support:
-    - name: MEDISO
-      url: https://www.mediso.mhlw.go.jp/
-      note: 厚労省主導の産学連携・事業化支援
+  - name: MEDISO
+    url: https://www.mediso.mhlw.go.jp/
+    note: 厚労省主導の産学連携・事業化支援
+  human_capital_management:
+    research_and_reviews:
+    - name: 戦略的人的資源管理と人的資本経営：論点整理と今後の研究課題
+      url: https://www.biz.tmu.ac.jp/wp-content/uploads/sites/9/2023/12/RP-48_Sunahara_Chiba_Nishimura.pdf
+      note: 2023年12月 / 砂原健一・千葉純平・西村孝史（ 東京都立大学 ） / SHRM理論から人的資本経営を学術的に整理。 経営戦略と人事戦略の垂直的連動、組織レベルの人的資本資源化メカニズムを分析。
+        日本企業の開示動向の課題も指摘
+    - name: 人的資本理論の実証化研究会
+      url: https://hc-cv-research.jp/
+      note: 2023年設立 / 民間研究団体 / ベッカーの人的資本理論に基づく実証研究。人的資本の投資対効果を定量的に分析。日本企業の人的資本開示の質向上と実務での定量的意思決定支援を目的とする
+    frameworks_and_standards:
+    - name: 人的資本可視化指針
+      url: https://www.cas.go.jp/jp/houdou/pdf/20220830shiryou1.pdf
+      note: 2022年8月 / 内閣官房 非財務情報可視化研究会 / 人的資本に関する資本市場への情報開示の手引き。 TCFD提言の4要素（ガバナンス・戦略・リスク管理・指標と目標）に沿った開示を推奨。
+        独自性と比較可能性のバランス を重視
+    - name: ISO30414
+      url: https://www.nicmr.com/nicmr/report/repo/2021_stn/2021aut13.pdf
+      note: 2018年12月 / 国際標準化機構（ ISO ） / 人的資本情報開示の国際規格。 11の報告領域と58の測定基準指標を提供。 FTE換算、人的資本ROIなどの特徴的な測定指標を含む
+    - name: 価値協創ガイダンス2.0
+      url: https://www.meti.go.jp/policy/economy/keiei_innovation/kigyoukaikei/ESGguidance.html
+      note: 2022年8月 / 経済産業省 / 企業と投資家の対話を促進するための統合的フレームワーク。SX実現を目指し、人的資本投資と人材戦略の重要性を明確に位置づける
+    guides_and_reports:
+    - name: 人材版伊藤レポート2.0
+      url: https://www.meti.go.jp/press/2022/05/20220513001/20220513001.html
+      note: 2022年5月 / 経済産業省 人的資本経営の実現に向けた検討会 / 人的資本経営の具体的実践方法を提示。 3つの視点（経営戦略と人材戦略の連動、As
+        is-To beギャップの定量把握、企業文化への定着） と5つの共通要素を具体化
+    - name: 人材版伊藤レポート（1.0）
+      url: https://www.meti.go.jp/shingikai/economy/kigyo_kachi_kojo/pdf/20200930_1.pdf
+      note: 2020年9月 / 経済産業省 持続的な企業価値の向上と人的資本に関する研究会 / 人的資本経営の概念を初めて体系化。人材戦略に求められる3つの視点（経営戦略と人材戦略の連動、As
+        is-To beギャップの定量把握、企業文化への定着）と5つの共通要素を提示。CEOとCHROの役割を明確化
+    - name: コーポレートガバナンス・コード（2021年改訂）
+      url: https://www.jpx.co.jp/news/1020/20210611-01.html
+      note: 2021年6月 / 東京証券取引所 / 上場企業に人的資本に関する情報開示を要求。補充原則2-4①において「人的資本や知的財産への投資等」の開示を明記。取締役会の多様性確保も規定
+    - name: 有価証券報告書における人的資本開示義務化
+      url: https://www.fsa.go.jp/news/r6/sonota/20250401-3/20250401.html
+      note: 2023年3月期より適用 / 金融庁 / 大手上場企業約4,000社に人的資本情報の開示を義務化。7分野19項目の開示枠組みを設定。人材育成方針、社内環境整備方針等の記載を要求
+    - name: 米国SEC人的資本開示規則（2020年改正）
+      url: https://hr-ai.org/new-column/selva1/
+      note: 2020年8月 / 米国証券取引委員会（SEC） / 米国上場企業に人的資本情報の開示を義務化。レギュレーションS-K（非財務情報）の改定により、企業が裁量で開示内容を決定し、特に人材の確保と育成策に注力する
+    - name: SASBスタンダード
+      url: https://www.jpx.co.jp/corporate/sustainability/esgknowledgehub/disclosure-framework/03.html
+      note: 2011年設立（継続更新） / サステナビリティ会計基準審議会（SASB） / 業種別のESG情報開示基準として、環境、社会、人的、ビジネスモデル、リーダーシップの5分野において、財務的にクリティカルな指標を明確にし、投資家向けの実務的な指標を提供
+    - name: 人的資本理論（ベッカー）
+      url: https://www.jil.go.jp/institute/zassi/backnumber/2012/04/pdf/008-011.pdf
+      note: 1975年（代表的著作） / ゲーリー・ベッカー（Gary Becker） / 人的資本概念の理論的基礎を確立。教育投資による賃金分布の説明、一般的人的資本と企業特殊的人的資本の区別、世代間格差の分析モデルを提供。1992年ノーベル経済学賞受賞の基礎理論
+    - name: GRIスタンダード
+      url: https://www.globalreporting.org/pdf.ashx?id=15715
+      note: 継続更新（最新版2021年） / グローバル・レポーティング・イニシアティブ（GRI） / サステナビリティ報告の国際標準。6つの資本（財務・製造・知的・人的・社会関係・自然）による価値創造報告を促進。人的資本関連の指標を含む包括的ESG開示枠組み
+    - name: ISSB 国際サステナビリティ基準審議会（IFRS S1・S2）
+      url: https://www.ssb-j.jp/jp/activity/press_release_ssbj/y2024/2024-0423.html
+      note: 2024年4月23日 / 国際サステナビリティ基準審議会（ISSB） / グローバルなサステナビリティ開示基準。 S1（一般的要求事項）とS2（気候関連開示）を公表。
+        TCFDの4要素に沿った構造。 今後の優先事項として自然および人的資本に関連するリサーチを計画
+    - name: 欧州CSRD（企業サステナビリティ報告指令）
+      url: https://www.enhesa.com/ja/resources/article/non-financial-information-disclosure-052024/
+      note: 2023年1月発効 / 欧州連合（EU） / EU域内の大企業や上場企業にサステナビリティ情報の義務的開示を規定。 ESRS（欧州サステナビリティ報告スタンダード）に基づく包括的な開示。
+        人的資本を含む社会的トピックスを網羅
+    - name: 女性活躍・男女共同参画の重点方針2025（女性版骨太の方針2025）
+      url: https://www.gender.go.jp/policy/sokushin/pdf/sokushin/jyuten2025_honbun.pdf
+      note: 2025年 / 内閣府 男女共同参画局 / 人的資本経営の観点から女性役員登用目標や達成に向けた行動計画等の情報公表を促進。 女性を含めた多様な人材の活躍推進に向けた取組を強化。
+        ダイバーシティ経営と人的資本経営の結びつきを明確化
+  elderly_business_strategy:
+    evidence_and_cases:
+    - name: 2023年度通所介護の経営状況（福祉医療機構）
+      url: https://www.wam.go.jp/hp/wp-content/uploads/250627_No003.pdf
+      note: 2024年6月・年次 / デイサービス・通所介護 / デイサービス経営実態詳細分析。赤字事業所43.9%、利用率・収益構造・費用構造の詳細データ
+    - name: 介護DX推進（厚生労働省）
+      url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/DX_suishin.html
+      note: 2024年度開始・継続更新 / DXツール・システム開発 / 介護情報基盤整備、マイナンバーカード活用、被保険者証電子化、業務効率化推進方針とガイドライン
+    - name: 福祉用具産業市場規模調査（日本福祉用具・生活支援用具協会）
+      url: https://www.jaspa.gr.jp/?page_id=265
+      note: 年次調査・毎年更新 / 福祉用具・レンタル / 福祉用具産業市場規模統計、レンタル・購入市場動向、分野別市場分析（2023年度版）
+    - name: 地域包括ケア見える化システム（厚生労働省）
+      url: https://mieruka.mhlw.go.jp/
+      note: 継続運用・定期データ更新 / 地域分析・事業計画策定 / 介護・医療の現状分析・課題抽出支援システム。都道府県・市町村の計画策定支援、地域分析データの一元化
+    - name: 高齢者見守り・安否確認システム（AI政府ポータル）
+      url: https://ai-government-portal.com/高齢者見守り・安否確認システム/
+      note: 2024年・継続更新 / 見守りサービス・IoTシステム / ICT・IoT・AI活用の見守りシステム進展、先進事例、市場動向、社会的背景、孤独死統計、デジタルディダイド
+    - name: シニア市場に注目する中小企業の戦略と課題（日本政策金融公庫）
+      url: https://www.jfc.go.jp/n/findings/pdf/tyuusyourepo_04_03.pdf
+      note: 2015年・参考資料 / シニアビジネス戦略 / シニア市場の特性整理 、 中小企業のマーケティング戦略事例 、 参入課題と解決策
+    - name: ヘルスケア産業基盤高度化推進事業（経済産業省）
+      url: https://www.meti.go.jp/meti_lib/report/2023FY/000299.pdf
+      note: 2024年度版・年次 / ヘルスケア産業全般 / ヘルスケア産業市場規模調査 、 2050年までの中長期的な市場推計 、 公的保険外領域の産業化動向
+    - name: 高齢者・介護関連サービス産業振興に関する戦略検討会取りまとめ（経済産業省）
+      url: https://www.meti.go.jp/shingikai/mono_info_service/elder_care/index.html
+      note: 2025年5月取りまとめ・最新版 / 介護保険外サービス産業 / 2025年団塊世代後期高齢者突入を踏まえ、介護保険外サービス産業振興戦略、地域実装方針、持続可能な事業モデル検討
+    policy_and_statistics:
+    - name: 令和5年介護サービス施設・事業所調査の概況（厚生労働省）
+      url: https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/service23/index.html
+      note: 2024年（令和5年度）・年次 / 施設運営・在宅・全般 / 施設・事業所数、定員、利用率、従事者数の全国統計データ。開設主体別・職種別の詳細分析
+    - name: 令和4年度介護保険事業状況報告（年報）（厚生労働省）
+      url: https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/22/index.html
+      note: 2023年（令和4年度）・年次 / 全般 / 介護保険事業の実施状況、被保険者数、認定者数、給付費等の全国集計データ
+    - name: 在宅介護実態調査（厚生労働省）
+      url: https://www.mhlw.go.jp/content/12301000/001523694.pdf
+      note: 2024年8月版・定期更新 / 在宅・介護者支援 / 在宅生活継続・介護者就労継続に向けた調査手引き。6つの検討テーマによる分析フレームワーク、自動集計ソフト提供
+    - name: 令和5年介護事業経営実態調査（厚生労働省）
+      url: https://www.mhlw.go.jp/toukei/saikin/hw/kaigo/jittai23/index.html
+      note: 2024年（令和5年度）・年次 / 施設運営・在宅・全般 / 介護事業の経営実態調査結果。収支状況、経営指標、サービス別収益構造分析
+    - name: 介護人材確保の現状について（厚生労働省）
+      url: https://www.mhlw.go.jp/content/12000000/001485589.pdf
+      note: 2024年・随時更新 / 人材確保・労働力対策 / 介護分野の人手不足状況、労働力需給推計、人材確保対策の実態調査。2026年度約240万人、2040年度約272万人の介護職員が必要との推計
+    - name: 介護予防・日常生活支援総合事業実態調査（厚生労働省）
+      url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000141576_00011.html
+      note: 令和4年度実施分・年次 / 介護予防・地域支援 / 総合事業の実施状況調査 、 介護予防サービスの多様化 、 地域支援体制整備状況
+    operations_and_benchmarks:
+    - name: 介護サービス事業者経営情報データベースシステム（厚生労働省）
+      url: https://www.mhlw.go.jp/stf/tyousa-bunseki.html
+      note: 2024年開始・継続更新 / 施設運営・在宅・全般 / 介護事業者の経営情報収集・分析システム。収益・費用・職員給与等のデータベース（2024年4月開始）
+    surveys_and_research:
+    - name: 令和5年度住宅市場動向調査報告書（国土交通省）
+      url: https://www.mlit.go.jp/report/press/content/001767858.pdf
+      note: 2024年（令和5年度）・年次 / 高齢者住宅・住環境整備 / 高齢者対応設備整備状況、住宅種類別バリアフリー対応、住み替え・建て替え動向
+    - name: 介護ロボット導入支援及び導入効果実証研究事業報告書（厚生労働省）
+      url: https://www.mhlw.go.jp/content/12300000/000788328.pdf
+      note: 年次調査・継続実施 / 介護ロボット・ICT開発 / 介護ロボット・ICT導入効果の実証研究。見守り機器、排泄支援、移乗支援等の効果測定・安全性検証
+    - name: サービス付き高齢者向け住宅の現状等（国土交通省・厚生労働省）
+      url: https://www.mlit.go.jp/jutakukentiku/house/content/001381203.pdf
+      note: 年次調査・定期更新 / サービス付き高齢者向け住宅 / サ高住特性・入居者属性、介護サービス利用状況、併設事業所との関係分析
+    - name: 認知症1200万人時代へ。ともに生きる社会における市場の可能性と特性（日本総合研究所）
+      url: https://www.jri.co.jp/file/pdf/company/media/2025/0221/20250221_takahashi_kouen.pdf
+      note: 2025年2月・最新版 / 認知症ケア・サービス / 認知症時代の在宅高齢者向け市場規模推計、製品サービス消費支出総額分析、ビジネス機会
+    - name: バリアフリー・ユニバーサルデザインに関する意識調査（内閣府）
+      url: https://www8.cao.go.jp/souki/barrier-free/tyosa_kenkyu/r05/index.html
+      note: 令和5年度版・年次調査 / ユニバーサルデザイン・アクセシビリティ / バリアフリー・ユニバーサルデザインの認知度、経済効果、社会意識調査。高齢者・障がい者の社会参加促進に向けた課題分析
