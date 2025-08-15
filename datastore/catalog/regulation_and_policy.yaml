@@ -1,5 +1,6 @@
----
-- id: ex1
-  name: Example Regulation And Policy
-  url: https://example.com/regulation_and_policy
-  note: Sample entry for regulation_and_policy
+medical_business_reference_urls:
+  regulation_and_policy:
+  - id: b552f7fefeee
+    name: PMDA – 医療機器
+    url: https://www.pmda.go.jp/review-services/inspections/0001.html
+    note: 医療機器の承認・認証フロー

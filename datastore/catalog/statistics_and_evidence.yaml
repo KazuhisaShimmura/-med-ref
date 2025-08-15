@@ -1,0 +1,6 @@
+medical_business_reference_urls:
+  statistics_and_evidence:
+  - id: cc98cf320353
+    name: e-Stat
+    url: https://www.e-stat.go.jp/
+    note: 日本の医療統計（病院数、患者数、医療費など）

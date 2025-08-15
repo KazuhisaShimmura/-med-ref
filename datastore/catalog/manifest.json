@@ -1,8 +1,77 @@
 {
-  "version": "1.0",
-  "generated_at": "2025-08-15T00:00:00+09:00",
+  "updated_at": "2025-08-15T00:00:00+09:00",
   "categories": [
-    "regulation_and_policy",
-    "technology_and_standards"
+    {
+      "name": "competitors_and_cases",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/competitors_and_cases.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/competitors_and_cases.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "elderly_business_strategy",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/elderly_business_strategy.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/elderly_business_strategy.yaml",
+      "count": 4,
+      "size_kb": 1
+    },
+    {
+      "name": "funding_and_grants",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/funding_and_grants.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/funding_and_grants.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "human_capital_management",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/human_capital_management.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/human_capital_management.yaml",
+      "count": 3,
+      "size_kb": 1
+    },
+    {
+      "name": "market_and_trends",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/market_and_trends.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/market_and_trends.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "networking_and_support",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/networking_and_support.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/networking_and_support.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "regulation_and_policy",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/regulation_and_policy.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/regulation_and_policy.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "statistics_and_evidence",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/statistics_and_evidence.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/statistics_and_evidence.yaml",
+      "count": 1,
+      "size_kb": 1
+    },
+    {
+      "name": "technology_and_standards",
+      "yaml_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/technology_and_standards.yaml",
+      "json_url": null,
+      "detail_url": "https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/technology_and_standards.yaml",
+      "count": 1,
+      "size_kb": 1
+    }
   ]
 }

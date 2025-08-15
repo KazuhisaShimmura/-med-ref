@@ -1,5 +1,6 @@
----
-- id: ex1
-  name: Example Technology And Standards
-  url: https://example.com/technology_and_standards
-  note: Sample entry for technology_and_standards
+medical_business_reference_urls:
+  technology_and_standards:
+  - id: e81c011b0641
+    name: HL7 International
+    url: https://www.hl7.org/
+    note: 医療データ標準（FHIRなど）

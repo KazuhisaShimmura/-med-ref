@@ -1,0 +1,18 @@
+medical_business_reference_urls:
+  elderly_business_strategy:
+  - id: fc8c4267ee7d
+    name: evidence_and_cases
+    url: evidence_and_cases
+    note: null
+  - id: e4e1d80e2b89
+    name: operations_and_benchmarks
+    url: operations_and_benchmarks
+    note: null
+  - id: bf657bfae323
+    name: policy_and_statistics
+    url: policy_and_statistics
+    note: null
+  - id: 2027834d67e2
+    name: surveys_and_research
+    url: surveys_and_research
+    note: null

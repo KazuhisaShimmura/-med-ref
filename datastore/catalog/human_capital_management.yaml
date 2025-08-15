@@ -1,0 +1,14 @@
+medical_business_reference_urls:
+  human_capital_management:
+  - id: a16bb14f1fcd
+    name: frameworks_and_standards
+    url: frameworks_and_standards
+    note: null
+  - id: bafb5887f0b0
+    name: guides_and_reports
+    url: guides_and_reports
+    note: null
+  - id: e40ed5f8677f
+    name: research_and_reviews
+    url: research_and_reviews
+    note: null

@@ -1,6 +1,29 @@
----
 catalog:
-  - category: regulation_and_policy
-    url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/regulation_and_policy.yaml
-  - category: technology_and_standards
-    url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/technology_and_standards.yaml
+- category: competitors_and_cases
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/competitors_and_cases.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/competitors_and_cases.yaml
+- category: elderly_business_strategy
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/elderly_business_strategy.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/elderly_business_strategy.yaml
+- category: funding_and_grants
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/funding_and_grants.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/funding_and_grants.yaml
+- category: human_capital_management
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/human_capital_management.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/human_capital_management.yaml
+- category: market_and_trends
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/market_and_trends.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/market_and_trends.yaml
+- category: networking_and_support
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/networking_and_support.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/networking_and_support.yaml
+- category: regulation_and_policy
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/regulation_and_policy.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/regulation_and_policy.yaml
+- category: statistics_and_evidence
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/statistics_and_evidence.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/statistics_and_evidence.yaml
+- category: technology_and_standards
+  url: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog/technology_and_standards.yaml
+  detail: https://kazuhisashimmura.github.io/-med-ref/datastore/catalog-detail/technology_and_standards.yaml
+updated_at: '2025-08-15T00:00:00+09:00'

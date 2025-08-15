@@ -1,0 +1,15 @@
+category: human_capital_management
+meta:
+  last_updated: '2025-08-15'
+  count: 3
+  split: false
+entries:
+- id: a16bb14f1fcd
+  title: frameworks_and_standards
+  url: frameworks_and_standards
+- id: bafb5887f0b0
+  title: guides_and_reports
+  url: guides_and_reports
+- id: e40ed5f8677f
+  title: research_and_reviews
+  url: research_and_reviews

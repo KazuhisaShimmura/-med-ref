@@ -1,0 +1,18 @@
+category: elderly_business_strategy
+meta:
+  last_updated: '2025-08-15'
+  count: 4
+  split: false
+entries:
+- id: fc8c4267ee7d
+  title: evidence_and_cases
+  url: evidence_and_cases
+- id: e4e1d80e2b89
+  title: operations_and_benchmarks
+  url: operations_and_benchmarks
+- id: bf657bfae323
+  title: policy_and_statistics
+  url: policy_and_statistics
+- id: 2027834d67e2
+  title: surveys_and_research
+  url: surveys_and_research
