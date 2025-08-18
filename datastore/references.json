@@ -1,15 +1,33 @@
 {
-  "generated_at": "2025-08-17T21:23:45.621950+00:00",
+  "generated_at": "2025-08-18T21:23:22.560926+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-08-17T21:22:55.562346+00:00",
+      "fetched_at": "2025-08-18T21:22:32.803100+00:00",
       "items": [
         {
-          "title": "ãã¡ã",
-          "id": "sha1:417272440534036ee4cd025a3fb0e2759312dc17",
+          "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
+          "id": "sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29",
+          "date": "2025-08-01",
+          "jurisdiction": "JP",
+          "doc_type": "call",
+          "key_facts": [
+            "版数: 0版"
+          ],
+          "summary": "医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限…",
+          "deadline": null,
+          "citation": {
+            "type": "web",
+            "publisher": "MHLW",
+            "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2"
+          },
+          "change_type": "new"
+        },
+        {
+          "title": "こちら",
+          "id": "sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9",
           "date": "2025-08-01",
           "jurisdiction": "JP",
           "doc_type": "call",
@@ -26,86 +44,72 @@
           "change_type": "unchanged"
         },
         {
-          "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãï¼å¹³æ22å¹´ï¼æ31æ¥ï¼ï¼»PDFå½¢å¼ï¼101KBï¼½",
-          "id": "sha1:707073e60efeffb95171dbd16b00c7f0b4ec5163",
-          "date": null,
-          "jurisdiction": "JP",
-          "doc_type": "other",
-          "key_facts": [],
-          "summary": "厚労省の関連更新（要詳細確認）。",
-          "deadline": null,
-          "citation": {
-            "type": "web",
-            "publisher": "MHLW",
-            "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf"
-          },
-          "change_type": "unchanged"
-        },
-        {
-          "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ23å¹´12æ21æ¥ï¼ï¼»PDFå½¢å¼ï¼179KBï¼½",
-          "id": "sha1:25763ee6c63f8ab8e2f85155125c9f7de3c28f0f",
-          "date": "2021-12-23",
-          "jurisdiction": "JP",
-          "doc_type": "other",
-          "key_facts": [],
-          "summary": "厚労省の関連更新（要詳細確認）。",
-          "deadline": null,
-          "citation": {
-            "type": "web",
-            "publisher": "MHLW",
-            "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf"
-          },
-          "change_type": "unchanged"
-        },
-        {
-          "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ24å¹´ï¼æ23æ¥ï¼ï¼»PDFå½¢å¼ï¼129KBï¼½",
-          "id": "sha1:73bb033308bae7d29ddca9d5f94e578e8c66900d",
-          "date": null,
-          "jurisdiction": "JP",
-          "doc_type": "other",
-          "key_facts": [],
-          "summary": "厚労省の関連更新（要詳細確認）。",
-          "deadline": null,
-          "citation": {
-            "type": "web",
-            "publisher": "MHLW",
-            "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf"
-          },
-          "change_type": "unchanged"
-        },
-        {
-          "title": "HPKIèªè¨¼å±éç¨è¦ç´é¢é£è³æã»è¨¼ææ¸é¡",
-          "id": "sha1:98d7c9f546e71928546b880a0f258b98ba1632ed",
+          "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
+          "id": "sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4",
           "date": "2025-08-01",
           "jurisdiction": "JP",
           "doc_type": "call",
-          "key_facts": [
-            "版数: 81版"
-          ],
-          "summary": "HPKI認証局運用規約関連資料・証明書類｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であ…",
+          "key_facts": [],
+          "summary": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "MHLW",
-            "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/pki-policy/repository.html"
+            "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
           },
-          "change_type": "unchanged"
+          "change_type": "new"
         },
         {
-          "title": "2023å¹´åº¦äºç®ä¿å¥å»çç¦ç¥åéã®å¬ééµåºç¤(HPKI)æ®åã»åçºäºæ¥­ã®å®æ½äºæ¥­èã®å¬åã«ã¤ãã¦",
-          "id": "sha1:a0e606c8043118adccaea98dda083674d3b88e94",
-          "date": null,
+          "title": "医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式",
+          "id": "sha1:37028dc70c8729e310931257bd3b30faa2d33991",
+          "date": "2005-06-05",
           "jurisdiction": "JP",
           "doc_type": "call",
-          "key_facts": [],
-          "summary": "2023年度保健医療福祉分野の公開鍵基盤(HPKI)普及・啓発事業の実施事業者の公募について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2…",
+          "key_facts": [
+            "版数: 0版"
+          ],
+          "summary": "医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "MHLW",
-            "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/newpage_00002.html"
+            "link": "https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html"
           },
-          "change_type": "unchanged"
+          "change_type": "new"
+        },
+        {
+          "title": "電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］",
+          "id": "sha1:819ebc1f6f4e5513b3546dbef4d656ca2710518c",
+          "date": "2018-04-04",
+          "jurisdiction": "JP",
+          "doc_type": "guidance",
+          "key_facts": [],
+          "summary": "厚労省の関連更新（要詳細確認）。",
+          "deadline": null,
+          "citation": {
+            "type": "web",
+            "publisher": "MHLW",
+            "link": "https://www.mhlw.go.jp/content/10800000/000936478.pdf"
+          },
+          "change_type": "new"
+        },
+        {
+          "title": "別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］",
+          "id": "sha1:0896f4e7c713d5c442eccae8446eb3b813879103",
+          "date": "2025-02-02",
+          "jurisdiction": "JP",
+          "doc_type": "guidance",
+          "key_facts": [
+            "版数: 1版"
+          ],
+          "summary": "厚労省の関連更新（要詳細確認）。",
+          "deadline": null,
+          "citation": {
+            "type": "web",
+            "publisher": "MHLW",
+            "link": "https://www.mhlw.go.jp/content/10800000/000936480.pdf"
+          },
+          "change_type": "new"
         }
       ]
     },
@@ -113,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-08-17T21:22:58.802921+00:00",
+      "fetched_at": "2025-08-18T21:22:35.879404+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -227,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-08-17T21:23:43.052531+00:00",
+      "fetched_at": "2025-08-18T21:23:19.510935+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -485,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-08-17T21:23:44.187446+00:00",
+      "fetched_at": "2025-08-18T21:23:21.332421+00:00",
       "items": []
     }
   ]
