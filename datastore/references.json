@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-18T21:23:22.560926+00:00",
+  "generated_at": "2025-08-19T21:25:20.390721+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-08-18T21:22:32.803100+00:00",
+      "fetched_at": "2025-08-19T21:24:28.974898+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -23,7 +23,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "こちら",
@@ -57,7 +57,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式",
@@ -75,7 +75,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］",
@@ -91,7 +91,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/000936478.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］",
@@ -109,7 +109,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/000936480.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-08-18T21:22:35.879404+00:00",
+      "fetched_at": "2025-08-19T21:24:32.727301+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-08-18T21:23:19.510935+00:00",
+      "fetched_at": "2025-08-19T21:25:17.657462+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-08-18T21:23:21.332421+00:00",
+      "fetched_at": "2025-08-19T21:25:18.794512+00:00",
       "items": []
     }
   ]
