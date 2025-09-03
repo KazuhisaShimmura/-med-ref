@@ -1,12 +1,28 @@
-generated_at: '2025-09-02T21:21:11.289749+00:00'
+generated_at: '2025-09-03T21:21:39.045400+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-09-02T21:20:20.337142+00:00'
+  fetched_at: '2025-09-03T21:20:49.316517+00:00'
   items:
-  - title: "ã\x81\x93ã\x81¡ã\x82\x89"
-    id: sha1:417272440534036ee4cd025a3fb0e2759312dc17
+  - title: 医療分野の情報化に関するガイドライン、通知、会議報告
+    id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
+    date: '2025-09-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts:
+    - '版数: 0版'
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+      English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
+    change_type: new
+  - title: こちら
+    id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
     date: '2025-09-01'
     jurisdiction: JP
     doc_type: call
@@ -21,103 +37,74 @@ sources:
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
     change_type: unchanged
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dï¼\x88å¹³æ\x88\x9022å¹´ï¼\x93\
-      æ\x9C\x8831æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8Fï¼\x9A101KBï¼½"
-    id: sha1:707073e60efeffb95171dbd16b00c7f0b4ec5163
-    date: null
-    jurisdiction: JP
-    doc_type: other
-    key_facts: []
-    summary: "%PDF-1.5 %���� 23 0 obj <> endobj 33 0 obj <>/Filter/FlateDecode/ID[<49A336FCC5CCEDD91B0A760F36CF049C><3DE721397DB36C458601F6F8010D04E3>]/Index[23\
-      \ 20]/Info 22 0 R/Length 73/Prev 102777/Root 24 0 R/Size 43/Type/XRef/W[1 3\
-      \ 1]>>stream h�bbd`\x10``b``�\x02\"\x19\x02@$c\a�dV\x02��\e…"
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf
-    change_type: new
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
-      «ã\x81¤ã\x81\x84ã\x81¦ï¼\x88å¹³æ\x88\x9023å¹´12æ\x9C\x8821æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8F\
-      ï¼\x9A179KBï¼½"
-    id: sha1:25763ee6c63f8ab8e2f85155125c9f7de3c28f0f
-    date: '2021-12-23'
-    jurisdiction: JP
-    doc_type: other
-    key_facts: []
-    summary: "%PDF-1.5 %���� 1 0 obj <>>> endobj 2 0 obj <> endobj 3 0 obj <>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]\
-      \ >>/MediaBox[ 0 0 595.2 841.92] /Contents 4 0 R/Group<>/Tabs/S/StructParents\
-      \ 0>> endobj 4 0 obj <> stream x��[[��\x11~o��`�K�C�U���4��>�\x0E;\x10� \x04\
-      �\x10����.sY2\x03�??U�}�…"
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf
-    change_type: new
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
-      «ã\x81¤ã\x81\x84ã\x81¦ï¼\x88å¹³æ\x88\x9024å¹´ï¼\x93æ\x9C\x8823æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8F\
-      ï¼\x9A129KBï¼½"
-    id: sha1:73bb033308bae7d29ddca9d5f94e578e8c66900d
-    date: null
-    jurisdiction: JP
-    doc_type: notice
-    key_facts: []
-    summary: "%PDF-1.5 %���� 29 0 obj <> endobj 39 0 obj <>/Filter/FlateDecode/ID[\
-      \ ]/Index[29 20]/Info 28 0 R/Length 72/Prev 131043/Root 30 0 R/Size 49/Type/XRef/W[1\
-      \ 3 1]>>stream h�bbd`\x10``b``� \"\x19\x02A$c\a�d6\x06�� �c.�ԛ ���$\x19̈́����d\x06\
-      &� k�z\x19\x18�\"�30�� \x10`�#� \a endstream endobj startxre…"
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf
-    change_type: new
-  - title: "HPKIèª\x8Dè¨¼å±\x80é\x81\x8Bç\x94¨è¦\x8Fç´\x84é\x96¢é\x80£è³\x87æ\x96\x99\
-      ã\x83»è¨¼æ\x98\x8Eæ\x9B¸é¡\x9E"
-    id: sha1:98d7c9f546e71928546b880a0f258b98ba1632ed
+  - title: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等
+    id: sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4
     date: '2025-09-01'
     jurisdiction: JP
     doc_type: call
-    key_facts:
-    - '版数: 81版'
-    summary: HPKI認証局運用規約関連資料・証明書類｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
-      点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であ…
+    key_facts: []
+    summary: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ
+      国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/pki-policy/repository.html
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html
     change_type: new
-  - title: "2023å¹´åº¦äº\x88ç®\x97ä¿\x9Då\x81¥å\x8C»ç\x99\x82ç¦\x8Fç¥\x89å\x88\x86\
-      é\x87\x8Eã\x81®å\N¬é\x96\x8Bé\x8Dµå\x9Fºç\x9B¤(HPKI)æ\x99®å\x8F\x8Aã\x83»å\x95\
-      \x93ç\x99ºäº\x8Bæ¥­ã\x81®å®\x9Fæ\x96½äº\x8Bæ¥­è\x80\Nã\x81®å\N¬å\x8B\x9Fã\x81\
-      «ã\x81¤ã\x81\x84ã\x81¦"
-    id: sha1:a0e606c8043118adccaea98dda083674d3b88e94
-    date: null
+  - title: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式
+    id: sha1:37028dc70c8729e310931257bd3b30faa2d33991
+    date: '2005-06-05'
     jurisdiction: JP
     doc_type: call
-    key_facts: []
-    summary: 2023年度保健医療福祉分野の公開鍵基盤(HPKI)普及・啓発事業の実施事業者の公募について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口
-      よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2…
+    key_facts:
+    - '版数: 0版'
+    summary: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問
+      サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動…
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/newpage_00002.html
+      link: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
+    change_type: new
+  - title: 電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］
+    id: sha1:819ebc1f6f4e5513b3546dbef4d656ca2710518c
+    date: '2018-04-04'
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts: []
+    summary: '%PDF-1.5 %���� 115 0 obj <> endobj xref 115 21 0000000016 00000 n 0000000813
+      00000 n 0000001356 00000 n 0000001678 00000 n 0000003949 00000 n 0000004127
+      00000 n 0000004261 00000 n 0000004432 00000 n 0000004690 00000 n 0000004713
+      00000 n 0000190153 00000 n 0000…'
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/content/10800000/000936478.pdf
+    change_type: new
+  - title: 別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］
+    id: sha1:0896f4e7c713d5c442eccae8446eb3b813879103
+    date: '2025-02-02'
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts:
+    - '版数: 1版'
+    summary: '%PDF-1.5 %���� 63 0 obj <> endobj xref 63 21 0000000016 00000 n 0000000813
+      00000 n 0000001226 00000 n 0000001541 00000 n 0000002290 00000 n 0000002457
+      00000 n 0000002625 00000 n 0000002756 00000 n 0000002991 00000 n 0000003289
+      00000 n 0000029354 00000 n 000002…'
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/content/10800000/000936480.pdf
     change_type: new
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-09-02T21:20:23.874311+00:00'
+  fetched_at: '2025-09-03T21:20:52.554503+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -244,7 +231,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-09-02T21:21:08.615209+00:00'
+  fetched_at: '2025-09-03T21:21:36.590444+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -484,5 +471,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-09-02T21:21:09.721710+00:00'
+  fetched_at: '2025-09-03T21:21:37.581159+00:00'
   items: []
