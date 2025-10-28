@@ -1,9 +1,9 @@
-generated_at: '2025-10-27T21:22:30.798598+00:00'
+generated_at: '2025-10-28T21:23:38.872186+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-10-27T21:21:40.697938+00:00'
+  fetched_at: '2025-10-28T21:22:48.712502+00:00'
   items:
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
@@ -20,7 +20,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
-    change_type: new
+    change_type: unchanged
   - title: こちら
     id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
     date: '2025-10-01'
@@ -51,7 +51,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html
-    change_type: new
+    change_type: unchanged
   - title: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式
     id: sha1:37028dc70c8729e310931257bd3b30faa2d33991
     date: '2005-06-05'
@@ -67,7 +67,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
-    change_type: new
+    change_type: unchanged
   - title: 電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］
     id: sha1:819ebc1f6f4e5513b3546dbef4d656ca2710518c
     date: '2018-04-04'
@@ -83,7 +83,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/000936478.pdf
-    change_type: new
+    change_type: unchanged
   - title: 別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］
     id: sha1:0896f4e7c713d5c442eccae8446eb3b813879103
     date: '2025-02-02'
@@ -100,11 +100,11 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/000936480.pdf
-    change_type: new
+    change_type: unchanged
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-10-27T21:21:44.046465+00:00'
+  fetched_at: '2025-10-28T21:22:52.141313+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -231,7 +231,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-10-27T21:22:28.317217+00:00'
+  fetched_at: '2025-10-28T21:23:36.335386+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -471,5 +471,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-10-27T21:22:29.358308+00:00'
+  fetched_at: '2025-10-28T21:23:37.391583+00:00'
   items: []
