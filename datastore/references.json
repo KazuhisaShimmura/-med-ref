@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T21:23:26.612764+00:00",
+  "generated_at": "2025-11-04T21:23:55.030449+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-11-03T21:22:35.443629+00:00",
+      "fetched_at": "2025-11-04T21:23:04.563432+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -41,7 +41,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
@@ -117,25 +117,25 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-11-03T21:22:39.320002+00:00",
+      "fetched_at": "2025-11-04T21:23:07.903926+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
           "id": "sha1:4cacbbf80b61496a53c29d34197e02deba69add0",
-          "date": null,
+          "date": "2025-05-04",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
             "含意: Q&A"
           ],
-          "summary": "æ å ±æä¾æ¥­å | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ æ¬æã¸ ãã¼ã English site ãµã¤ãããã ãåãåããå  æå­ãµã¤ãºå¤æ´ æ¨æº æ¡å¤§ English ã¡ãã¥ã¼ éãã ããè¦ããã¼ã¸ä¸è¦§ æ¤ç´¢ å®å ¨æ§æ…",
+          "summary": "æ å ±æä¾æ¥­å | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ Language æ¥æ¬èª English å½ãµã¤ãã§ã¯ãæ©æ¢°çãªèªåç¿»è¨³ãµã¼ãã¹ãä½¿ç¨ãã¦ãã¾ãã Notification This site may not be accurate due to machine translation, and…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/0001.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "å®å¨å¯¾ç­ç­æ åºéã®å¾´å",
@@ -146,32 +146,32 @@
           "key_facts": [
             "含意: Q&A"
           ],
-          "summary": "å®å ¨å¯¾ç­ç­æ åºéã®å¾´å | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ æ¬æã¸ ãã¼ã English site ãµã¤ãããã ãåãåããå  æå­ãµã¤ãºå¤æ´ æ¨æº æ¡å¤§ English ã¡ãã¥ã¼ éãã ããè¦ããã¼ã¸ä¸è¦§ æ¤…",
+          "summary": "å®å ¨å¯¾ç­ç­æ åºéã®å¾´å | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ Language æ¥æ¬èª English å½ãµã¤ãã§ã¯ãæ©æ¢°çãªèªåç¿»è¨³ãµã¼ãã¹ãä½¿ç¨ãã¦ãã¾ãã Notification This site may not be accurate due to machine t…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/safety-contributions/0001.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "ãããQ&A",
           "id": "sha1:262b1b345e8202904328bb7b001d78f903f6379b",
-          "date": null,
+          "date": "2025-05-04",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
             "含意: Q&A"
           ],
-          "summary": "ãããQ&A | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ æ¬æã¸ ãã¼ã English site ãµã¤ãããã ãåãåããå  æå­ãµã¤ãºå¤æ´ æ¨æº æ¡å¤§ English ã¡ãã¥ã¼ éãã ããè¦ããã¼ã¸ä¸è¦§ æ¤ç´¢ å®å ¨æ§æ å ±ã…",
+          "summary": "ãããQ&A | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ Language æ¥æ¬èª English å½ãµã¤ãã§ã¯ãæ©æ¢°çãªèªåç¿»è¨³ãµã¼ãã¹ãä½¿ç¨ãã¦ãã¾ãã Notification This site may not be accurate due to machine translation, and all f…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0014.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "æ£èåå»è¬åã¬ã¤ã",
@@ -182,14 +182,14 @@
           "key_facts": [
             "含意: Q&A"
           ],
-          "summary": "æ£è åå»è¬åã¬ã¤ã | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ æ¬æã¸ ãã¼ã English site ãµã¤ãããã ãåãåããå  æå­ãµã¤ãºå¤æ´ æ¨æº æ¡å¤§ English ã¡ãã¥ã¼ éãã ããè¦ããã¼ã¸ä¸è¦§ æ¤ç´¢ å®…",
+          "summary": "æ£è åå»è¬åã¬ã¤ã | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ Language æ¥æ¬èª English å½ãµã¤ãã§ã¯ãæ©æ¢°çãªèªåç¿»è¨³ãµã¼ãã¹ãä½¿ç¨ãã¦ãã¾ãã Notification This site may not be accurate due to machine transla…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0001.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "ã¯ã¯ãã³æ¥ç¨®ãåããäººã¸ã®ã¬ã¤ã",
@@ -200,14 +200,14 @@
           "key_facts": [
             "含意: Q&A"
           ],
-          "summary": "ã¯ã¯ãã³æ¥ç¨®ãåããäººã¸ã®ã¬ã¤ã | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ æ¬æã¸ ãã¼ã English site ãµã¤ãããã ãåãåããå  æå­ãµã¤ãºå¤æ´ æ¨æº æ¡å¤§ English ã¡ãã¥ã¼ éãã ããè¦ããã…",
+          "summary": "ã¯ã¯ãã³æ¥ç¨®ãåããäººã¸ã®ã¬ã¤ã | ç¬ç«è¡æ¿æ³äºº å»è¬åå»çæ©å¨ç·åæ©æ§ Language æ¥æ¬èª English å½ãµã¤ãã§ã¯ãæ©æ¢°çãªèªåç¿»è¨³ãµã¼ãã¹ãä½¿ç¨ãã¦ãã¾ãã Notification This site may not be accurate d…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/vacc-guide/0001.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "ä¸è¬ç¨å»è¬åï¼è¦æå°å»è¬åã®æ·»ä»ææ¸",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-11-03T21:23:23.928815+00:00",
+      "fetched_at": "2025-11-04T21:23:52.488314+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-11-03T21:23:25.044529+00:00",
+      "fetched_at": "2025-11-04T21:23:53.594218+00:00",
       "items": []
     }
   ]
