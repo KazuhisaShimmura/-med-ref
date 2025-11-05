@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:23:55.030449+00:00",
+  "generated_at": "2025-11-05T21:24:33.849295+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-11-04T21:23:04.563432+00:00",
+      "fetched_at": "2025-11-05T21:23:43.615656+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -117,12 +117,12 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-11-04T21:23:07.903926+00:00",
+      "fetched_at": "2025-11-05T21:23:47.410706+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
           "id": "sha1:4cacbbf80b61496a53c29d34197e02deba69add0",
-          "date": "2025-05-04",
+          "date": "2025-05-05",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -153,12 +153,12 @@
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/safety-contributions/0001.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "ãããQ&A",
           "id": "sha1:262b1b345e8202904328bb7b001d78f903f6379b",
-          "date": "2025-05-04",
+          "date": "2025-05-05",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -189,7 +189,7 @@
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0001.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "ã¯ã¯ãã³æ¥ç¨®ãåããäººã¸ã®ã¬ã¤ã",
@@ -207,7 +207,7 @@
             "publisher": "PMDA",
             "link": "https://www.pmda.go.jp/safety/info-services/drugs/items-information/vacc-guide/0001.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "ä¸è¬ç¨å»è¬åï¼è¦æå°å»è¬åã®æ·»ä»ææ¸",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-11-04T21:23:52.488314+00:00",
+      "fetched_at": "2025-11-05T21:24:31.290313+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-11-04T21:23:53.594218+00:00",
+      "fetched_at": "2025-11-05T21:24:32.411080+00:00",
       "items": []
     }
   ]

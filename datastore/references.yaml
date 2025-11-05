@@ -1,9 +1,9 @@
-generated_at: '2025-11-04T21:23:55.030449+00:00'
+generated_at: '2025-11-05T21:24:33.849295+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-11-04T21:23:04.563432+00:00'
+  fetched_at: '2025-11-05T21:23:43.615656+00:00'
   items:
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
@@ -104,11 +104,11 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-11-04T21:23:07.903926+00:00'
+  fetched_at: '2025-11-05T21:23:47.410706+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
-    date: '2025-05-04'
+    date: '2025-05-05'
     jurisdiction: JP
     doc_type: guidance
     key_facts:
@@ -144,10 +144,10 @@ sources:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/safety-contributions/0001.html
-    change_type: updated
+    change_type: unchanged
   - title: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A"
     id: sha1:262b1b345e8202904328bb7b001d78f903f6379b
-    date: '2025-05-04'
+    date: '2025-05-05'
     jurisdiction: JP
     doc_type: guidance
     key_facts:
@@ -183,7 +183,7 @@ sources:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0001.html
-    change_type: updated
+    change_type: unchanged
   - title: "ã\x83¯ã\x82¯ã\x83\x81ã\x83³æ\x8E¥ç¨®ã\x82\x92å\x8F\x97ã\x81\x91ã\x82\x8B\
       äººã\x81¸ã\x81®ã\x82¬ã\x82¤ã\x83\x89"
     id: sha1:a4e6a5551706139ee49e9f51958652253a4dba2e
@@ -204,7 +204,7 @@ sources:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/vacc-guide/0001.html
-    change_type: updated
+    change_type: unchanged
   - title: "ä¸\x80è\x88¬ç\x94¨å\x8C»è\x96¬å\x93\x81ï¼\x8Fè¦\x81æ\x8C\x87å°\x8Eå\x8C\
       »è\x96¬å\x93\x81ã\x81®æ·»ä»\x98æ\x96\x87æ\x9B¸"
     id: sha1:e329f7fc9b6b454bb63e458d9d6e3028a78aefde
@@ -224,7 +224,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-11-04T21:23:52.488314+00:00'
+  fetched_at: '2025-11-05T21:24:31.290313+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -464,5 +464,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-11-04T21:23:53.594218+00:00'
+  fetched_at: '2025-11-05T21:24:32.411080+00:00'
   items: []
