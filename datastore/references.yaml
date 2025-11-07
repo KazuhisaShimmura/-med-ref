@@ -1,9 +1,9 @@
-generated_at: '2025-11-06T21:23:22.538976+00:00'
+generated_at: '2025-11-07T21:19:57.323120+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-11-06T21:22:31.979049+00:00'
+  fetched_at: '2025-11-07T21:19:06.026920+00:00'
   items:
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
@@ -104,11 +104,11 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-11-06T21:22:35.439445+00:00'
+  fetched_at: '2025-11-07T21:19:09.423079+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
-    date: '2025-05-06'
+    date: '2025-05-07'
     jurisdiction: JP
     doc_type: guidance
     key_facts:
@@ -147,7 +147,7 @@ sources:
     change_type: unchanged
   - title: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A"
     id: sha1:262b1b345e8202904328bb7b001d78f903f6379b
-    date: '2025-05-06'
+    date: '2025-05-07'
     jurisdiction: JP
     doc_type: guidance
     key_facts:
@@ -224,7 +224,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-11-06T21:23:19.894185+00:00'
+  fetched_at: '2025-11-07T21:19:53.608012+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -464,5 +464,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-11-06T21:23:21.095130+00:00'
+  fetched_at: '2025-11-07T21:19:55.895273+00:00'
   items: []
