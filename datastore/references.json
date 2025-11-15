@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T21:24:26.492097+00:00",
+  "generated_at": "2025-11-15T21:21:07.982194+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-11-14T21:23:38.204134+00:00",
+      "fetched_at": "2025-11-15T21:20:20.151908+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -117,12 +117,12 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-11-14T21:23:41.236838+00:00",
+      "fetched_at": "2025-11-15T21:20:22.858210+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
           "id": "sha1:4cacbbf80b61496a53c29d34197e02deba69add0",
-          "date": "2025-05-14",
+          "date": "2025-05-15",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -158,7 +158,7 @@
         {
           "title": "ãããQ&A",
           "id": "sha1:262b1b345e8202904328bb7b001d78f903f6379b",
-          "date": "2025-05-14",
+          "date": "2025-05-15",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-11-14T21:24:24.343736+00:00",
+      "fetched_at": "2025-11-15T21:21:05.888805+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-11-14T21:24:25.332601+00:00",
+      "fetched_at": "2025-11-15T21:21:06.844735+00:00",
       "items": []
     }
   ]
