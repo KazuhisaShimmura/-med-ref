@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T21:25:51.848321+00:00",
+  "generated_at": "2025-11-25T21:25:16.261745+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-11-24T21:25:01.123112+00:00",
+      "fetched_at": "2025-11-25T21:24:25.552116+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -28,13 +28,11 @@
         {
           "title": "こちら",
           "id": "sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9",
-          "date": "2025-11-01",
+          "date": null,
           "jurisdiction": "JP",
-          "doc_type": "call",
-          "key_facts": [
-            "版数: 0版"
-          ],
-          "summary": "医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳で…",
+          "doc_type": "other",
+          "key_facts": [],
+          "summary": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã English site æ¤ç´¢ éãã è¨èªåæ…",
           "deadline": null,
           "citation": {
             "type": "web",
@@ -75,7 +73,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］",
@@ -117,12 +115,12 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-11-24T21:25:04.599796+00:00",
+      "fetched_at": "2025-11-25T21:24:30.165416+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
           "id": "sha1:4cacbbf80b61496a53c29d34197e02deba69add0",
-          "date": "2025-05-24",
+          "date": "2025-05-25",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -158,7 +156,7 @@
         {
           "title": "ãããQ&A",
           "id": "sha1:262b1b345e8202904328bb7b001d78f903f6379b",
-          "date": "2025-05-24",
+          "date": "2025-05-25",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -231,7 +229,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-11-24T21:25:49.229446+00:00",
+      "fetched_at": "2025-11-25T21:25:13.771359+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +487,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-11-24T21:25:50.412008+00:00",
+      "fetched_at": "2025-11-25T21:25:14.894066+00:00",
       "items": []
     }
   ]
