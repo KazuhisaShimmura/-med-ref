@@ -1,9 +1,9 @@
-generated_at: '2025-11-26T21:23:31.204299+00:00'
+generated_at: '2025-11-27T21:23:26.629638+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-11-26T21:22:41.692989+00:00'
+  fetched_at: '2025-11-27T21:22:36.663332+00:00'
   items:
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
@@ -36,7 +36,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
-    change_type: updated
+    change_type: unchanged
   - title: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等
     id: sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4
     date: '2025-11-01'
@@ -56,18 +56,23 @@ sources:
     id: sha1:37028dc70c8729e310931257bd3b30faa2d33991
     date: '2005-06-05'
     jurisdiction: JP
-    doc_type: call
+    doc_type: guidance
     key_facts:
     - '版数: 0版'
-    summary: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問
-      サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動…
+    summary: "å\x8C»ç\x99\x82æ\x83 å ±ã\x82·ã\x82¹ã\x83\x86ã\x83 ã\x81®å®\x89å ¨ç®¡ç\x90\
+      \x86ã\x81«é\x96¢ã\x81\x99ã\x82\x8Bã\x82¬ã\x82¤ã\x83\x89ã\x83©ã\x82¤ã\x83³ã\x80\
+      \x80ç¬¬6.0ç\x89\x88ï¼\x88ä»¤å\x92\x8C5å¹´5æ\x9C\x88ï¼\x89ï½\x9Cå\x8E\x9Aç\x94\
+      \x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\x8Bã\x83¥ã\x83¼ æ\x9C¬æ\x96\
+      \x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8Fã\x81\x9Bçª\x93å\x8F£ ã\x82\x88\
+      ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\
+      \x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81®å ´ ç\x82¹å­\x97ã\x83\x80ã\x82\
+      ¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 Eng…"
     deadline: null
     citation:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html
-    change_type: unchanged
+    change_type: updated
   - title: 電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］
     id: sha1:819ebc1f6f4e5513b3546dbef4d656ca2710518c
     date: '2018-04-04'
@@ -104,21 +109,22 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-11-26T21:22:44.478480+00:00'
+  fetched_at: '2025-11-27T21:22:39.819414+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
-    date: '2025-05-26'
+    date: null
     jurisdiction: JP
     doc_type: guidance
     key_facts:
     - '含意: Q&A'
     summary: "æ\x83 å ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99 | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95\
       äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B\
-      \ Language æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81\
-      ¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93\
-      ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification\
-      \ This site may not be accurate due to machine translation, and…"
+      \ Language è¨\x80èª\x9Eé\x81¸æ\x8A\x9E Language switch æ\x97¥æ\x9C¬èª\x9E English\
+      \ å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87\
+      ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81\
+      ¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification This site may not be accurate\
+      \ du…"
     deadline: null
     citation:
       type: web
@@ -134,30 +140,30 @@ sources:
     - '含意: Q&A'
     summary: "å®\x89å ¨å¯¾ç­\x96ç­\x89æ\x8B å\x87ºé\x87\x91ã\x81®å¾´å\x8F\x8E | ç\x8B\
       ¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99\
-      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B Language æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82\
-      µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95\
-      ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84\
-      ã\x81¾ã\x81\x99ã\x80\x82 Notification This site may not be accurate due to machine\
-      \ t…"
+      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B Language è¨\x80èª\x9Eé\x81¸æ\x8A\x9E Language switch\
+      \ æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81\
+      æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\
+      \x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification This\
+      \ site may not…"
     deadline: null
     citation:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/safety-contributions/0001.html
-    change_type: unchanged
+    change_type: updated
   - title: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A"
     id: sha1:262b1b345e8202904328bb7b001d78f903f6379b
-    date: '2025-05-26'
+    date: null
     jurisdiction: JP
     doc_type: guidance
     key_facts:
     - '含意: Q&A'
     summary: "ã\x81\x8Fã\x81\x99ã\x82\x8AQ&A | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C\
       »è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B Language\
-      \ æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81\
-      æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\
-      \x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification This\
-      \ site may not be accurate due to machine translation, and all f…"
+      \ è¨\x80èª\x9Eé\x81¸æ\x8A\x9E Language switch æ\x97¥æ\x9C¬èª\x9E English å½\x93\
+      ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\
+      \x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84\
+      ã\x81¾ã\x81\x99ã\x80\x82 Notification This site may not be accurate due to m…"
     deadline: null
     citation:
       type: web
@@ -173,17 +179,17 @@ sources:
     - '含意: Q&A'
     summary: "æ\x82£è\x80 å\x90\x91å\x8C»è\x96¬å\x93\x81ã\x82¬ã\x82¤ã\x83\x89 | ç\x8B\
       ¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99\
-      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B Language æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82\
-      µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95\
-      ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84\
-      ã\x81¾ã\x81\x99ã\x80\x82 Notification This site may not be accurate due to machine\
-      \ transla…"
+      ¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B Language è¨\x80èª\x9Eé\x81¸æ\x8A\x9E Language switch\
+      \ æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81\
+      æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\
+      \x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification This\
+      \ site may not be ac…"
     deadline: null
     citation:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/guide-for-patients/0001.html
-    change_type: unchanged
+    change_type: updated
   - title: "ã\x83¯ã\x82¯ã\x83\x81ã\x83³æ\x8E¥ç¨®ã\x82\x92å\x8F\x97ã\x81\x91ã\x82\x8B\
       äººã\x81¸ã\x81®ã\x82¬ã\x82¤ã\x83\x89"
     id: sha1:a4e6a5551706139ee49e9f51958652253a4dba2e
@@ -195,16 +201,16 @@ sources:
     summary: "ã\x83¯ã\x82¯ã\x83\x81ã\x83³æ\x8E¥ç¨®ã\x82\x92å\x8F\x97ã\x81\x91ã\x82\
       \x8Bäººã\x81¸ã\x81®ã\x82¬ã\x82¤ã\x83\x89 | ç\x8B¬ç«\x8Bè¡\x8Cæ\x94¿æ³\x95äºº\
       \ å\x8C»è\x96¬å\x93\x81å\x8C»ç\x99\x82æ©\x9Få\x99¨ç·\x8Få\x90\x88æ©\x9Fæ§\x8B\
-      \ Language æ\x97¥æ\x9C¬èª\x9E English å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81\
-      ¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93\
-      ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification\
-      \ This site may not be accurate d…"
+      \ Language è¨\x80èª\x9Eé\x81¸æ\x8A\x9E Language switch æ\x97¥æ\x9C¬èª\x9E English\
+      \ å½\x93ã\x82µã\x82¤ã\x83\x88ã\x81§ã\x81¯ã\x80\x81æ©\x9Fæ¢°ç\x9A\x84ã\x81ªè\x87\
+      ªå\x8B\x95ç¿»è¨³ã\x82µã\x83¼ã\x83\x93ã\x82¹ã\x82\x92ä½¿ç\x94¨ã\x81\x97ã\x81\
+      ¦ã\x81\x84ã\x81¾ã\x81\x99ã\x80\x82 Notification Th…"
     deadline: null
     citation:
       type: web
       publisher: PMDA
       link: https://www.pmda.go.jp/safety/info-services/drugs/items-information/vacc-guide/0001.html
-    change_type: unchanged
+    change_type: updated
   - title: "ä¸\x80è\x88¬ç\x94¨å\x8C»è\x96¬å\x93\x81ï¼\x8Fè¦\x81æ\x8C\x87å°\x8Eå\x8C\
       »è\x96¬å\x93\x81ã\x81®æ·»ä»\x98æ\x96\x87æ\x9B¸"
     id: sha1:e329f7fc9b6b454bb63e458d9d6e3028a78aefde
@@ -224,7 +230,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-11-26T21:23:28.040923+00:00'
+  fetched_at: '2025-11-27T21:23:24.037750+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -464,5 +470,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-11-26T21:23:29.829438+00:00'
+  fetched_at: '2025-11-27T21:23:25.156911+00:00'
   items: []
