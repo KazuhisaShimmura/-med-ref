@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T21:23:09.003949+00:00",
+  "generated_at": "2025-12-07T21:22:11.828520+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-12-06T21:22:18.875030+00:00",
+      "fetched_at": "2025-12-07T21:21:21.572550+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -64,11 +64,11 @@
           "id": "sha1:37028dc70c8729e310931257bd3b30faa2d33991",
           "date": "2005-06-05",
           "jurisdiction": "JP",
-          "doc_type": "guidance",
+          "doc_type": "call",
           "key_facts": [
             "版数: 0版"
           ],
-          "summary": "å»çæ å ±ã·ã¹ãã ã®å®å ¨ç®¡çã«é¢ããã¬ã¤ãã©ã¤ã³ãç¬¬6.0çï¼ä»¤å5å¹´5æï¼ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã Eng…",
+          "summary": "医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動…",
           "deadline": null,
           "citation": {
             "type": "web",
@@ -117,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-12-06T21:22:22.263625+00:00",
+      "fetched_at": "2025-12-07T21:21:24.919270+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-12-06T21:23:06.473831+00:00",
+      "fetched_at": "2025-12-07T21:22:09.030634+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-12-06T21:23:07.532126+00:00",
+      "fetched_at": "2025-12-07T21:22:10.206160+00:00",
       "items": []
     }
   ]
