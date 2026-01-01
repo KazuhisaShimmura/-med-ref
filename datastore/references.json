@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-12-31T21:26:01.850996+00:00",
+  "generated_at": "2026-01-01T21:26:41.224105+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2025-12-31T21:25:11.728576+00:00",
+      "fetched_at": "2026-01-01T21:25:51.416702+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
           "id": "sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29",
-          "date": "2025-12-01",
+          "date": "2026-01-01",
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [
@@ -23,12 +23,12 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "こちら",
           "id": "sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9",
-          "date": "2025-12-01",
+          "date": "2026-01-01",
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [
@@ -46,18 +46,18 @@
         {
           "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
           "id": "sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4",
-          "date": "2025-12-01",
+          "date": null,
           "jurisdiction": "JP",
-          "doc_type": "call",
+          "doc_type": "guidance",
           "key_facts": [],
-          "summary": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…",
+          "summary": "åçå´ååéã«ãããåäººæ å ±ã®é©åãªåæ±ãã®ããã®ã¬ã¤ãã©ã¤ã³ç­ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã English …",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式",
@@ -96,7 +96,7 @@
         {
           "title": "別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］",
           "id": "sha1:0896f4e7c713d5c442eccae8446eb3b813879103",
-          "date": "2025-02-02",
+          "date": "2026-02-02",
           "jurisdiction": "JP",
           "doc_type": "guidance",
           "key_facts": [
@@ -109,7 +109,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/000936480.pdf"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2025-12-31T21:25:15.093813+00:00",
+      "fetched_at": "2026-01-01T21:25:54.745185+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2025-12-31T21:25:59.308303+00:00",
+      "fetched_at": "2026-01-01T21:26:38.995031+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -310,7 +310,7 @@
             "含意: 助成"
           ],
           "summary": "性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …",
-          "deadline": "2025-11-21",
+          "deadline": "2026-11-21",
           "citation": {
             "type": "web",
             "publisher": "AMED",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2025-12-31T21:26:00.374366+00:00",
+      "fetched_at": "2026-01-01T21:26:40.054933+00:00",
       "items": []
     }
   ]

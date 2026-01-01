@@ -1,13 +1,13 @@
-generated_at: '2025-12-31T21:26:01.850996+00:00'
+generated_at: '2026-01-01T21:26:41.224105+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2025-12-31T21:25:11.728576+00:00'
+  fetched_at: '2026-01-01T21:25:51.416702+00:00'
   items:
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:49490669d4029bb4f4d1dd8ada71a374f8b31c29
-    date: '2025-12-01'
+    date: '2026-01-01'
     jurisdiction: JP
     doc_type: call
     key_facts:
@@ -20,10 +20,10 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
-    change_type: unchanged
+    change_type: updated
   - title: こちら
     id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
-    date: '2025-12-01'
+    date: '2026-01-01'
     jurisdiction: JP
     doc_type: call
     key_facts:
@@ -39,19 +39,24 @@ sources:
     change_type: updated
   - title: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等
     id: sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4
-    date: '2025-12-01'
+    date: null
     jurisdiction: JP
-    doc_type: call
+    doc_type: guidance
     key_facts: []
-    summary: 厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ
-      国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…
+    summary: "å\x8E\x9Aç\x94\x9Få\x8A´å\x83\x8Då\x88\x86é\x87\x8Eã\x81«ã\x81\x8Aã\x81\
+      \x91ã\x82\x8Bå\x80\x8Bäººæ\x83 å ±ã\x81®é\x81©å\x88\x87ã\x81ªå\x8F\x96æ\x89\
+      ±ã\x81\x84ã\x81®ã\x81\x9Fã\x82\x81ã\x81®ã\x82¬ã\x82¤ã\x83\x89ã\x83©ã\x82¤ã\x83\
+      ³ç­\x89ï½\x9Cå\x8E\x9Aç\x94\x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\
+      \x8Bã\x83¥ã\x83¼ æ\x9C¬æ\x96\x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8F\
+      ã\x81\x9Bçª\x93å\x8F£ ã\x82\x88ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82\
+      µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81\
+      ®å ´ ç\x82¹å­\x97ã\x83\x80ã\x82¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 English …"
     deadline: null
     citation:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000027272.html
-    change_type: unchanged
+    change_type: updated
   - title: 医療情報システムの安全管理に関するガイドライン 第6.0版（令和5年5月）　関係資料一式
     id: sha1:37028dc70c8729e310931257bd3b30faa2d33991
     date: '2005-06-05'
@@ -86,7 +91,7 @@ sources:
     change_type: unchanged
   - title: 別添２_電子処方箋の運用ガイドライン（第2.1版）［PDF形式：562KB］［562KB］
     id: sha1:0896f4e7c713d5c442eccae8446eb3b813879103
-    date: '2025-02-02'
+    date: '2026-02-02'
     jurisdiction: JP
     doc_type: guidance
     key_facts:
@@ -100,11 +105,11 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/000936480.pdf
-    change_type: unchanged
+    change_type: updated
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2025-12-31T21:25:15.093813+00:00'
+  fetched_at: '2026-01-01T21:25:54.745185+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -225,7 +230,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2025-12-31T21:25:59.308303+00:00'
+  fetched_at: '2026-01-01T21:26:38.995031+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -302,7 +307,7 @@ sources:
       アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等
       海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進
       性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 …
-    deadline: '2025-11-21'
+    deadline: '2026-11-21'
     citation:
       type: web
       publisher: AMED
@@ -465,5 +470,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2025-12-31T21:26:00.374366+00:00'
+  fetched_at: '2026-01-01T21:26:40.054933+00:00'
   items: []
