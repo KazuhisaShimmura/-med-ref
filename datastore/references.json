@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T21:29:11.061996+00:00",
+  "generated_at": "2026-01-17T21:24:37.531633+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-01-16T21:28:23.560818+00:00",
+      "fetched_at": "2026-01-17T21:23:47.261214+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -46,11 +46,11 @@
         {
           "title": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等",
           "id": "sha1:d23b208c86688ee16a66bd99e1734af21e5bb8c4",
-          "date": "2026-01-01",
+          "date": null,
           "jurisdiction": "JP",
-          "doc_type": "call",
+          "doc_type": "guidance",
           "key_facts": [],
-          "summary": "厚生労働分野における個人情報の適切な取扱いのためのガイドライン等｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため…",
+          "summary": "åçå´ååéã«ãããåäººæ å ±ã®é©åãªåæ±ãã®ããã®ã¬ã¤ãã©ã¤ã³ç­ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã English …",
           "deadline": null,
           "citation": {
             "type": "web",
@@ -75,7 +75,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/shingi/0000516275_00006.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "電子処方箋の運用ガイドライン一部改正について（令和４年４月18日）［PDF形式：945KB］［945KB］",
@@ -117,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-01-16T21:28:26.108034+00:00",
+      "fetched_at": "2026-01-17T21:23:50.703623+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-01-16T21:29:08.966898+00:00",
+      "fetched_at": "2026-01-17T21:24:34.907772+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-01-16T21:29:09.926873+00:00",
+      "fetched_at": "2026-01-17T21:24:35.996077+00:00",
       "items": []
     }
   ]
