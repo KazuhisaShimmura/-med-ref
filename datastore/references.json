@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T21:44:51.227712+00:00",
+  "generated_at": "2026-02-19T21:40:48.919767+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-02-18T21:44:01.673426+00:00",
+      "fetched_at": "2026-02-19T21:39:59.428578+00:00",
       "items": [
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -117,7 +117,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-02-18T21:44:04.917258+00:00",
+      "fetched_at": "2026-02-19T21:40:02.498670+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -231,7 +231,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-02-18T21:44:48.939081+00:00",
+      "fetched_at": "2026-02-19T21:40:46.482183+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -453,14 +453,14 @@
             "含意: 研究開発",
             "含意: 事業"
           ],
-          "summary": "国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 トップ 公募情報 公募情報検索 公募情報検索 色々な条件から探す 利用方法についてはこちら AMED事業の公募の相談はこちら 他の研究資金配分機関（FA）における公募情報の検索はこちら 公募カレンダー フリーワード 公募情報 現在公募中 公募予告 公募情報（過去の公募情報も含む） 採択結果 分野 （プロジェクト等） 全て 医薬品プロジェクト 医療機器・ヘルスケアプロジェクト …",
+          "summary": "国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取り組み 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 医薬品プロジェクト 医療機器・…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "AMED",
             "link": "https://www.amed.go.jp/search.php"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "公募相談窓口",
@@ -489,7 +489,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-02-18T21:44:49.923201+00:00",
+      "fetched_at": "2026-02-19T21:40:47.536903+00:00",
       "items": []
     }
   ]
