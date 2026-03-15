@@ -1,9 +1,9 @@
-generated_at: '2026-03-14T21:34:08.081982+00:00'
+generated_at: '2026-03-15T21:35:16.054108+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-03-14T21:33:19.272365+00:00'
+  fetched_at: '2026-03-15T21:34:25.074254+00:00'
   items:
   - title: 医療情報システムのクラウド化に伴う検討事業について
     id: sha1:8901d4f1976fb0d9111fdd47b533a054a9276cfa
@@ -39,18 +39,14 @@ sources:
     change_type: unchanged
   - title: こちら
     id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
-    date: null
+    date: '2026-03-01'
     jurisdiction: JP
-    doc_type: other
-    key_facts: []
-    summary: "å\x8C»ç\x99\x82å\x88\x86é\x87\x8Eã\x81®ã\x82µã\x82¤ã\x83\x90ã\x83¼ã\x82\
-      »ã\x82­ã\x83¥ã\x83ªã\x83\x86ã\x82£å¯¾ç­\x96ã\x81«ã\x81¤ã\x81\x84ã\x81¦ï½\x9C\
-      å\x8E\x9Aç\x94\x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\x8Bã\x83¥ã\x83\
-      ¼ æ\x9C¬æ\x96\x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8Fã\x81\x9Bçª\x93\
-      å\x8F£ ã\x82\x88ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82µã\x82¤ã\x83\
-      \x88ã\x83\x9Eã\x83\x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81®å ´ ç\x82¹å­\x97\
-      ã\x83\x80ã\x82¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 English site æ¤\x9Cç´¢ é\x96\x89\
-      ã\x81\x98ã\x82\x8B è¨\x80èª\x9Eå\x88\x87æ\x9B…"
+    doc_type: call
+    key_facts:
+    - '版数: 0版'
+    summary: 医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
+      点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳で…
     deadline: null
     citation:
       type: web
@@ -109,7 +105,7 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-03-14T21:33:21.964792+00:00'
+  fetched_at: '2026-03-15T21:34:28.392362+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -230,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-03-14T21:34:05.915398+00:00'
+  fetched_at: '2026-03-15T21:35:13.285827+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -470,5 +466,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-03-14T21:34:06.900781+00:00'
+  fetched_at: '2026-03-15T21:35:14.487324+00:00'
   items: []
