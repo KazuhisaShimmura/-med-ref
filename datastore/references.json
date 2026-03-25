@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T21:45:49.472767+00:00",
+  "generated_at": "2026-03-25T21:49:07.479612+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-03-24T21:44:58.529259+00:00",
+      "fetched_at": "2026-03-25T21:48:18.071820+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -23,7 +23,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -41,25 +41,23 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "こちら",
           "id": "sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9",
-          "date": "2026-03-01",
+          "date": null,
           "jurisdiction": "JP",
-          "doc_type": "call",
-          "key_facts": [
-            "版数: 0版"
-          ],
-          "summary": "医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード English site 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳で…",
+          "doc_type": "other",
+          "key_facts": [],
+          "summary": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã English site æ¤ç´¢ éãã è¨èªåæ…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "【交付要綱】（案）地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［165KB］",
@@ -75,7 +73,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/001672267.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "【公募要領】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［129KB］",
@@ -91,7 +89,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/001671535.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "【Q&A】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［403KB］",
@@ -107,7 +105,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/content/10800000/001672569.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         }
       ]
     },
@@ -115,7 +113,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-03-24T21:45:02.159983+00:00",
+      "fetched_at": "2026-03-25T21:48:21.281315+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -229,7 +227,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-03-24T21:45:46.629388+00:00",
+      "fetched_at": "2026-03-25T21:49:05.048571+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -487,7 +485,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-03-24T21:45:47.902530+00:00",
+      "fetched_at": "2026-03-25T21:49:06.169935+00:00",
       "items": []
     }
   ]
