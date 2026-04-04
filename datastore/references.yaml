@@ -1,9 +1,9 @@
-generated_at: '2026-04-03T21:42:03.037510+00:00'
+generated_at: '2026-04-04T21:38:49.824040+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-04-03T21:41:12.185264+00:00'
+  fetched_at: '2026-04-04T21:37:59.165930+00:00'
   items:
   - title: 医療情報システムのクラウド化に伴う検討事業について
     id: sha1:8901d4f1976fb0d9111fdd47b533a054a9276cfa
@@ -21,7 +21,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
-    change_type: new
+    change_type: unchanged
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:fe45ce56635bed6edcd172779cb3ac899d23a355
     date: '2026-04-01'
@@ -38,7 +38,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3
-    change_type: new
+    change_type: unchanged
   - title: こちら
     id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
     date: '2026-04-01'
@@ -71,7 +71,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/001672267.pdf
-    change_type: new
+    change_type: unchanged
   - title: 【公募要領】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［129KB］
     id: sha1:1293f71004e65f49a3dec362e8488dfe8619eafe
     date: null
@@ -87,7 +87,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/001671535.pdf
-    change_type: new
+    change_type: unchanged
   - title: 【Q&A】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［403KB］
     id: sha1:05ba5455a8488385a88d6f694a98d0f090361765
     date: null
@@ -104,11 +104,11 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/content/10800000/001672569.pdf
-    change_type: new
+    change_type: unchanged
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-04-03T21:41:15.308406+00:00'
+  fetched_at: '2026-04-04T21:38:02.828492+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -229,7 +229,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-04-03T21:42:00.799447+00:00'
+  fetched_at: '2026-04-04T21:38:47.211250+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -469,5 +469,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-04-03T21:42:01.753694+00:00'
+  fetched_at: '2026-04-04T21:38:48.271086+00:00'
   items: []
