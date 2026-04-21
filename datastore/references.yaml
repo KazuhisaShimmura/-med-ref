@@ -1,34 +1,16 @@
-generated_at: '2026-04-20T21:54:24.204349+00:00'
+generated_at: '2026-04-21T21:52:25.392638+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-04-20T21:53:35.404222+00:00'
+  fetched_at: '2026-04-21T21:51:34.595497+00:00'
   items:
   - title: 医療情報システムのクラウド化に伴う検討事業について
-    id: sha1:8901d4f1976fb0d9111fdd47b533a054a9276cfa
+    id: sha1:4e5af4992d77fa5e2d457a2d3c91e627f1d19682
     date: '2026-04-01'
     jurisdiction: JP
     doc_type: call
-    key_facts:
-    - '版数: 0版'
-    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
-      検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3. 翻訳前の…
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free2
-    change_type: unchanged
-  - title: 医療分野の情報化に関するガイドライン、通知、会議報告
-    id: sha1:fe45ce56635bed6edcd172779cb3ac899d23a355
-    date: '2026-04-01'
-    jurisdiction: JP
-    doc_type: call
-    key_facts:
-    - '版数: 0版'
+    key_facts: []
     summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
       検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
       1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
@@ -39,23 +21,38 @@ sources:
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3
     change_type: unchanged
-  - title: こちら
-    id: sha1:87c855bbe7ae055304a9c8c8614123e1944d3ac9
+  - title: 医療分野の情報化に関するガイドライン、通知、会議報告
+    id: sha1:6a3f1212f04934b46c45738fa757cb18875d3957
     date: '2026-04-01'
     jurisdiction: JP
     doc_type: call
-    key_facts:
-    - '版数: 0版'
-    summary: 医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
-      点字ダウンロード 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+    key_facts: []
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+      検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
       1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3.…
+      3. 翻訳前の…
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
-    change_type: unchanged
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free4
+    change_type: new
+  - title: 地域医療情報連携ネットワークに関する調査・通知等
+    id: sha1:2d3400a8d8a33a2795c54396efcc989dea582d8e
+    date: '2026-04-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts: []
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+      検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
+      3. 翻訳前の…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free6
+    change_type: new
   - title: 【交付要綱】（案）地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［165KB］
     id: sha1:2187b4cd872d8df73abc6c9121dcf31d77fa4147
     date: null
@@ -108,7 +105,7 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-04-20T21:53:38.368493+00:00'
+  fetched_at: '2026-04-21T21:51:38.200890+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -229,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-04-20T21:54:21.923232+00:00'
+  fetched_at: '2026-04-21T21:52:22.827052+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -469,5 +466,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-04-20T21:54:22.832031+00:00'
+  fetched_at: '2026-04-21T21:52:23.856600+00:00'
   items: []
