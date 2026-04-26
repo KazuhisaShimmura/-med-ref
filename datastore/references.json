@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T21:44:37.937390+00:00",
+  "generated_at": "2026-04-26T21:48:22.623375+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-04-25T21:43:47.918950+00:00",
+      "fetched_at": "2026-04-26T21:47:32.267943+00:00",
       "items": [
         {
           "title": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦",
@@ -23,7 +23,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "é»å­ã«ã«ãæå ±å±æãµã¼ãã¹ãã¼ã ãã¼ã¸",
@@ -39,7 +39,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "å»çæå ±é£æºãããã¯ã¼ã¯æ¯æ´ããï¼ã¢ã¼ã«ã¤ãï¼",
@@ -57,7 +57,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/renkei-support.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãï¼å¹³æ22å¹´ï¼æ31æ¥ï¼ï¼»PDFå½¢å¼ï¼101KBï¼½",
@@ -73,7 +73,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ23å¹´12æ21æ¥ï¼ï¼»PDFå½¢å¼ï¼179KBï¼½",
@@ -89,7 +89,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ24å¹´ï¼æ23æ¥ï¼ï¼»PDFå½¢å¼ï¼129KBï¼½",
@@ -105,7 +105,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         }
       ]
     },
@@ -113,7 +113,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-04-25T21:43:51.257645+00:00",
+      "fetched_at": "2026-04-26T21:47:36.152562+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -227,7 +227,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-04-25T21:44:35.437779+00:00",
+      "fetched_at": "2026-04-26T21:48:20.392253+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -485,7 +485,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-04-25T21:44:36.494486+00:00",
+      "fetched_at": "2026-04-26T21:48:21.451682+00:00",
       "items": []
     }
   ]

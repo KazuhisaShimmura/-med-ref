@@ -1,9 +1,9 @@
-generated_at: '2026-04-25T21:44:37.937390+00:00'
+generated_at: '2026-04-26T21:48:22.623375+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-04-25T21:43:47.918950+00:00'
+  fetched_at: '2026-04-26T21:47:32.267943+00:00'
   items:
   - title: "å\x8C»ç\x99\x82å\x88\x86é\x87\x8Eã\x81®ã\x82µã\x82¤ã\x83\x90ã\x83¼ã\x82\
       »ã\x82­ã\x83¥ã\x83ªã\x83\x86ã\x82£å¯¾ç­\x96ã\x81«ã\x81¤ã\x81\x84ã\x81¦"
@@ -22,7 +22,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
-    change_type: new
+    change_type: unchanged
   - title: "é\x9B»å­\x90ã\x82«ã\x83«ã\x83\x86æ\x83\Nå ±å\N±æ\x9C\x89ã\x82µã\x83¼ã\x83\
       \x93ã\x82¹ã\x83\x9Bã\x83¼ã\x83 ã\x83\x9Aã\x83¼ã\x82¸"
     id: sha1:2becc81203a18ae866f0c0d21c53e6e001209c10
@@ -39,7 +39,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html
-    change_type: new
+    change_type: unchanged
   - title: "å\x8C»ç\x99\x82æ\x83\Nå ±é\x80£æ\x90ºã\x83\x8Dã\x83\x83ã\x83\x88ã\x83\
       ¯ã\x83¼ã\x82¯æ\x94¯æ\x8F´ã\x83\x8Aã\x83\x93ï¼\x88ã\x82¢ã\x83¼ã\x82«ã\x82¤ã\x83\
       \x96ï¼\x89"
@@ -58,7 +58,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/renkei-support.html
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dï¼\x88å¹³æ\x88\x9022å¹´ï¼\x93\
@@ -76,7 +76,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
@@ -96,7 +96,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
@@ -116,11 +116,11 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf
-    change_type: new
+    change_type: unchanged
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-04-25T21:43:51.257645+00:00'
+  fetched_at: '2026-04-26T21:47:36.152562+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -241,7 +241,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-04-25T21:44:35.437779+00:00'
+  fetched_at: '2026-04-26T21:48:20.392253+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -481,5 +481,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-04-25T21:44:36.494486+00:00'
+  fetched_at: '2026-04-26T21:48:21.451682+00:00'
   items: []
