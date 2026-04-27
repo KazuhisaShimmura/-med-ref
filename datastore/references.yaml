@@ -1,126 +1,111 @@
-generated_at: '2026-04-26T21:48:22.623375+00:00'
+generated_at: '2026-04-27T22:00:05.133228+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-04-26T21:47:32.267943+00:00'
+  fetched_at: '2026-04-27T21:59:13.871294+00:00'
   items:
-  - title: "å\x8C»ç\x99\x82å\x88\x86é\x87\x8Eã\x81®ã\x82µã\x82¤ã\x83\x90ã\x83¼ã\x82\
-      »ã\x82­ã\x83¥ã\x83ªã\x83\x86ã\x82£å¯¾ç­\x96ã\x81«ã\x81¤ã\x81\x84ã\x81¦"
-    id: sha1:595545ad93664eb16a69b270bc98901da7c2f308
-    date: '2026-04-01'
-    jurisdiction: JP
-    doc_type: call
-    key_facts:
-    - '版数: 0版'
-    summary: 医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
-      点字ダウンロード 検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3.…
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
-    change_type: unchanged
-  - title: "é\x9B»å­\x90ã\x82«ã\x83«ã\x83\x86æ\x83\Nå ±å\N±æ\x9C\x89ã\x82µã\x83¼ã\x83\
-      \x93ã\x82¹ã\x83\x9Bã\x83¼ã\x83 ã\x83\x9Aã\x83¼ã\x82¸"
-    id: sha1:2becc81203a18ae866f0c0d21c53e6e001209c10
+  - title: 医療情報システムのクラウド化に伴う検討事業について
+    id: sha1:4e5af4992d77fa5e2d457a2d3c91e627f1d19682
     date: '2026-04-01'
     jurisdiction: JP
     doc_type: call
     key_facts: []
-    summary: 電子カルテ情報共有サービス｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
       検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
       1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3. 翻訳前の日本語…
+      3. 翻訳前の…
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html
-    change_type: unchanged
-  - title: "å\x8C»ç\x99\x82æ\x83\Nå ±é\x80£æ\x90ºã\x83\x8Dã\x83\x83ã\x83\x88ã\x83\
-      ¯ã\x83¼ã\x82¯æ\x94¯æ\x8F´ã\x83\x8Aã\x83\x93ï¼\x88ã\x82¢ã\x83¼ã\x82«ã\x82¤ã\x83\
-      \x96ï¼\x89"
-    id: sha1:5d59b4c0ece2a719b21222ab68d6ff239599c10d
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3
+    change_type: new
+  - title: 医療分野の情報化に関するガイドライン、通知、会議報告
+    id: sha1:6a3f1212f04934b46c45738fa757cb18875d3957
     date: '2026-04-01'
     jurisdiction: JP
     doc_type: call
-    key_facts:
-    - '版数: Ver.1.0'
-    summary: 医療情報連携ネットワーク支援ナビ（アーカイブ） 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+    key_facts: []
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
       検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
       1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3. 翻訳前…
+      3. 翻訳前の…
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/renkei-support.html
-    change_type: unchanged
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dï¼\x88å¹³æ\x88\x9022å¹´ï¼\x93\
-      æ\x9C\x8831æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8Fï¼\x9A101KBï¼½"
-    id: sha1:707073e60efeffb95171dbd16b00c7f0b4ec5163
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free4
+    change_type: new
+  - title: 地域医療情報連携ネットワークに関する調査・通知等
+    id: sha1:2d3400a8d8a33a2795c54396efcc989dea582d8e
+    date: '2026-04-01'
+    jurisdiction: JP
+    doc_type: call
+    key_facts: []
+    summary: 医療分野の情報化の推進について ｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
+      検索 閉じる 言語切替 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
+      3. 翻訳前の…
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free6
+    change_type: new
+  - title: 【交付要綱】（案）地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［165KB］
+    id: sha1:2187b4cd872d8df73abc6c9121dcf31d77fa4147
     date: null
     jurisdiction: JP
     doc_type: other
     key_facts: []
-    summary: "%PDF-1.5 %���� 23 0 obj <> endobj 33 0 obj <>/Filter/FlateDecode/ID[<49A336FCC5CCEDD91B0A760F36CF049C><3DE721397DB36C458601F6F8010D04E3>]/Index[23\
-      \ 20]/Info 22 0 R/Length 73/Prev 102777/Root 24 0 R/Size 43/Type/XRef/W[1 3\
-      \ 1]>>stream h�bbd`\x10``b``�\x02\"\x19\x02@$c\a�dV\x02��\e…"
+    summary: "%PDF-1.6 %���� 2 0 obj << /Length 2178 /Filter /FlateDecode >> stream\
+      \ x��[Y� 7 ��S� *\"�\x03F�ZO0GH @~|���vU�S���\x13�@l�\x03sH���K%n\"����G����@7\x12\
+      �6��� ��Ꮫ~M7��27�*�\x02��oB\b�����\x0F�rx@n�\x7F���\"~@�7�{Z\x12~$����L��0ђ�8�\
+      \ h�\x7F||��\x16�,�n!�\x19���׈��\x04��\x06/���2���!X:Ĥv b\e.� ܼTJC�����|\a�v�`…"
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf
-    change_type: unchanged
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
-      «ã\x81¤ã\x81\x84ã\x81¦ï¼\x88å¹³æ\x88\x9023å¹´12æ\x9C\x8821æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8F\
-      ï¼\x9A179KBï¼½"
-    id: sha1:25763ee6c63f8ab8e2f85155125c9f7de3c28f0f
-    date: '2021-12-23'
-    jurisdiction: JP
-    doc_type: other
-    key_facts: []
-    summary: "%PDF-1.5 %���� 1 0 obj <>>> endobj 2 0 obj <> endobj 3 0 obj <>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]\
-      \ >>/MediaBox[ 0 0 595.2 841.92] /Contents 4 0 R/Group<>/Tabs/S/StructParents\
-      \ 0>> endobj 4 0 obj <> stream x��[[��\x11~o��`�K�C�U���4��>�\x0E;\x10� \x04\
-      �\x10����.sY2\x03�??U�}�…"
-    deadline: null
-    citation:
-      type: web
-      publisher: MHLW
-      link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf
-    change_type: unchanged
-  - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
-      ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
-      \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
-      «ã\x81¤ã\x81\x84ã\x81¦ï¼\x88å¹³æ\x88\x9024å¹´ï¼\x93æ\x9C\x8823æ\x97¥ï¼\x89ï¼»PDFå½¢å¼\x8F\
-      ï¼\x9A129KBï¼½"
-    id: sha1:73bb033308bae7d29ddca9d5f94e578e8c66900d
+      link: https://www.mhlw.go.jp/content/10800000/001672267.pdf
+    change_type: new
+  - title: 【公募要領】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［129KB］
+    id: sha1:1293f71004e65f49a3dec362e8488dfe8619eafe
     date: null
     jurisdiction: JP
-    doc_type: notice
+    doc_type: call
     key_facts: []
-    summary: "%PDF-1.5 %���� 29 0 obj <> endobj 39 0 obj <>/Filter/FlateDecode/ID[\
-      \ ]/Index[29 20]/Info 28 0 R/Length 72/Prev 131043/Root 30 0 R/Size 49/Type/XRef/W[1\
-      \ 3 1]>>stream h�bbd`\x10``b``� \"\x19\x02A$c\a�d6\x06�� �c.�ԛ ���$\x19̈́����d\x06\
-      &� k�z\x19\x18�\"�30�� \x10`�#� \a endstream endobj startxre…"
+    summary: "%PDF-1.6 %���� 2 0 obj << /Length 3461 /Filter /FlateDecode >> stream\
+      \ x��]In��\x11��\x14>���, x���\x04>B��\x01���\x17��[R��U���/���I�Ț'Z}�����H_\
+      \ \x7F[蓨S��� ���\x7F��k� �\x7F��[\x7F\x19ױ��|�]�?>������/\x16�h:篮�\x7F���ʋ�'iie��s���z�[�B��\x96\
+      *�L���u��R� ����m�:�� 밝BݎD}��Eh�z�A�.��RJq١!}@����0M\x14��*z�6�…"
     deadline: null
     citation:
       type: web
       publisher: MHLW
-      link: https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf
-    change_type: unchanged
+      link: https://www.mhlw.go.jp/content/10800000/001671535.pdf
+    change_type: new
+  - title: 【Q&A】地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［403KB］
+    id: sha1:05ba5455a8488385a88d6f694a98d0f090361765
+    date: null
+    jurisdiction: JP
+    doc_type: guidance
+    key_facts: []
+    summary: "%PDF-1.6 %���� 2 0 obj << /Length 4367 /Filter /FlateDecode >> stream\
+      \ x��][��\x11~�U�\x158�/R�K��W0K�\x12)R^���\x18\e����9\x14���t��2*5P`���( �1휐��u�:%��\
+      \ ������1���\x7Fp�y���?X�\x7F�-\x7F��鎹\x0F�}�������;\e�\U0006F3DF���\x16`r���\x7F\
+      ,�Y�U̾n틦8� \x17�-��V�������Ӈ�\x1A/;/��b�6MC\x01&vM��a�A�]��/�\x18n�*pas (=��w\x06\
+      ��|--…"
+    deadline: null
+    citation:
+      type: web
+      publisher: MHLW
+      link: https://www.mhlw.go.jp/content/10800000/001672569.pdf
+    change_type: new
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-04-26T21:47:36.152562+00:00'
+  fetched_at: '2026-04-27T21:59:17.727859+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -241,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-04-26T21:48:20.392253+00:00'
+  fetched_at: '2026-04-27T22:00:02.585210+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -481,5 +466,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-04-26T21:48:21.451682+00:00'
+  fetched_at: '2026-04-27T22:00:03.654390+00:00'
   items: []
