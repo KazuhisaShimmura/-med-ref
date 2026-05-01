@@ -1,13 +1,13 @@
-generated_at: '2026-04-30T22:02:05.422428+00:00'
+generated_at: '2026-05-01T21:58:26.694084+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-04-30T22:01:16.602973+00:00'
+  fetched_at: '2026-05-01T21:57:38.626777+00:00'
   items:
   - title: 医療情報システムのクラウド化に伴う検討事業について
     id: sha1:4e5af4992d77fa5e2d457a2d3c91e627f1d19682
-    date: '2026-04-01'
+    date: '2026-05-01'
     jurisdiction: JP
     doc_type: call
     key_facts: []
@@ -23,7 +23,7 @@ sources:
     change_type: updated
   - title: 医療分野の情報化に関するガイドライン、通知、会議報告
     id: sha1:6a3f1212f04934b46c45738fa757cb18875d3957
-    date: '2026-04-01'
+    date: '2026-05-01'
     jurisdiction: JP
     doc_type: call
     key_facts: []
@@ -39,7 +39,7 @@ sources:
     change_type: updated
   - title: 地域医療情報連携ネットワークに関する調査・通知等
     id: sha1:2d3400a8d8a33a2795c54396efcc989dea582d8e
-    date: '2026-04-01'
+    date: '2026-05-01'
     jurisdiction: JP
     doc_type: call
     key_facts: []
@@ -105,7 +105,7 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-04-30T22:01:19.463201+00:00'
+  fetched_at: '2026-05-01T21:57:41.441184+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -226,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-04-30T22:02:03.176087+00:00'
+  fetched_at: '2026-05-01T21:58:24.601188+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -466,5 +466,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-04-30T22:02:04.168507+00:00'
+  fetched_at: '2026-05-01T21:58:25.450228+00:00'
   items: []
