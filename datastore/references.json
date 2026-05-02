@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:58:26.694084+00:00",
+  "generated_at": "2026-05-02T21:51:57.695577+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-05-01T21:57:38.626777+00:00",
+      "fetched_at": "2026-05-02T21:51:05.037550+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -21,7 +21,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
@@ -37,7 +37,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free4"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "地域医療情報連携ネットワークに関する調査・通知等",
@@ -53,7 +53,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free6"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "【交付要綱】（案）地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［165KB］",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-05-01T21:57:41.441184+00:00",
+      "fetched_at": "2026-05-02T21:51:09.343056+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-05-01T21:58:24.601188+00:00",
+      "fetched_at": "2026-05-02T21:51:55.079429+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-05-01T21:58:25.450228+00:00",
+      "fetched_at": "2026-05-02T21:51:56.125833+00:00",
       "items": []
     }
   ]
