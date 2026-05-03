@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T21:51:57.695577+00:00",
+  "generated_at": "2026-05-03T21:53:11.674750+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-05-02T21:51:05.037550+00:00",
+      "fetched_at": "2026-05-03T21:52:21.962757+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-05-02T21:51:09.343056+00:00",
+      "fetched_at": "2026-05-03T21:52:25.259320+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-05-02T21:51:55.079429+00:00",
+      "fetched_at": "2026-05-03T21:53:09.345168+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-05-02T21:51:56.125833+00:00",
+      "fetched_at": "2026-05-03T21:53:10.327427+00:00",
       "items": []
     }
   ]
