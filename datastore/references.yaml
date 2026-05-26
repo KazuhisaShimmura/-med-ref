@@ -1,48 +1,48 @@
-generated_at: '2026-05-25T22:14:04.380598+00:00'
+generated_at: '2026-05-26T22:25:09.609178+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-05-25T22:13:13.382222+00:00'
+  fetched_at: '2026-05-26T22:24:20.754729+00:00'
   items:
   - title: "å\x8C»ç\x99\x82å\x88\x86é\x87\x8Eã\x81®ã\x82µã\x82¤ã\x83\x90ã\x83¼ã\x82\
       »ã\x82­ã\x83¥ã\x83ªã\x83\x86ã\x82£å¯¾ç­\x96ã\x81«ã\x81¤ã\x81\x84ã\x81¦"
     id: sha1:595545ad93664eb16a69b270bc98901da7c2f308
-    date: null
+    date: '2026-05-01'
     jurisdiction: JP
-    doc_type: other
-    key_facts: []
-    summary: "å\x8C»ç\x99\x82å\x88\x86é\x87\x8Eã\x81®ã\x82µã\x82¤ã\x83\x90ã\x83¼ã\x82\
-      »ã\x82­ã\x83¥ã\x83ªã\x83\x86ã\x82£å¯¾ç­\x96ã\x81«ã\x81¤ã\x81\x84ã\x81¦ï½\x9C\
-      å\x8E\x9Aç\x94\x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\x8Bã\x83¥ã\x83\
-      ¼ æ\x9C¬æ\x96\x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8Fã\x81\x9Bçª\x93\
-      å\x8F£ ã\x82\x88ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82µã\x82¤ã\x83\
-      \x88ã\x83\x9Eã\x83\x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81®å ´ ç\x82¹å­\x97\
-      ã\x83\x80ã\x82¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 æ¤\x9Cç´¢ é\x96\x89ã\x81\x98ã\x82\
-      \x8B Language ã\x80\x8Cè¨\x80èª\x9Eå\x88\x87æ\x9B¿…"
+    doc_type: call
+    key_facts:
+    - '版数: 0版'
+    summary: 医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場
+      点字ダウンロード 検索 閉じる Language 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
+      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません…
     deadline: null
     citation:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html
-    change_type: new
+    change_type: updated
   - title: "é\x9B»å­\x90ã\x82«ã\x83«ã\x83\x86æ\x83\Nå ±å\N±æ\x9C\x89ã\x82µã\x83¼ã\x83\
       \x93ã\x82¹ã\x83\x9Bã\x83¼ã\x83 ã\x83\x9Aã\x83¼ã\x82¸"
     id: sha1:2becc81203a18ae866f0c0d21c53e6e001209c10
-    date: '2026-05-01'
+    date: null
     jurisdiction: JP
-    doc_type: call
+    doc_type: other
     key_facts: []
-    summary: 電子カルテ情報共有サービス｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード
-      検索 閉じる Language 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。
-      1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません。
-      3. 翻訳前…
+    summary: "é\x9B»å­\x90ã\x82«ã\x83«ã\x83\x86æ\x83 å ±å ±æ\x9C\x89ã\x82µã\x83¼ã\x83\
+      \x93ã\x82¹ï½\x9Cå\x8E\x9Aç\x94\x9Få\x8A´å\x83\x8Dç\x9C\x81 æ¤\x9Cç´¢ ã\x83¡ã\x83\
+      \x8Bã\x83¥ã\x83¼ æ\x9C¬æ\x96\x87ã\x81¸ ã\x81\x8Aå\x95\x8Få\x90\x88ã\x82\x8F\
+      ã\x81\x9Bçª\x93å\x8F£ ã\x82\x88ã\x81\x8Fã\x81\x82ã\x82\x8Bå¾¡è³ªå\x95\x8F ã\x82\
+      µã\x82¤ã\x83\x88ã\x83\x9Eã\x83\x83ã\x83\x97 å\x9B½æ°\x91å\x8F\x82å\x8A ã\x81\
+      ®å ´ ç\x82¹å­\x97ã\x83\x80ã\x82¦ã\x83³ã\x83­ã\x83¼ã\x83\x89 æ¤\x9Cç´¢ é\x96\x89\
+      ã\x81\x98ã\x82\x8B Language ã\x80\x8Cè¨\x80èª\x9Eå\x88\x87æ\x9B¿ã\x80\x8Dã\x82\
+      µã\x83¼ã\x83\x93ã\x82¹ã\x81«ã\x81¤ã\x81\x84…"
     deadline: null
     citation:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html
-    change_type: new
+    change_type: updated
   - title: "å\x8C»ç\x99\x82æ\x83\Nå ±é\x80£æ\x90ºã\x83\x8Dã\x83\x83ã\x83\x88ã\x83\
       ¯ã\x83¼ã\x82¯æ\x94¯æ\x8F´ã\x83\x8Aã\x83\x93ï¼\x88ã\x82¢ã\x83¼ã\x82«ã\x82¤ã\x83\
       \x96ï¼\x89"
@@ -61,7 +61,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/renkei-support.html
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dï¼\x88å¹³æ\x88\x9022å¹´ï¼\x93\
@@ -79,7 +79,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
@@ -99,7 +99,7 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf
-    change_type: new
+    change_type: unchanged
   - title: "ã\x80\x8Cä¿\x9Då\x81¥å\x8C»ç\x99\x82æ\x83\Nå ±å\x88\x86é\x87\x8Eã\x81\
       ®æ¨\x99æº\x96è¦\x8Fæ ¼ã\x81¨ã\x81\x97ã\x81¦èª\x8Dã\x82\x81ã\x82\x8Bã\x81¹ã\x81\
       \x8Dè¦\x8Fæ ¼ã\x81«ã\x81¤ã\x81\x84ã\x81¦ã\x80\x8Dã\x81®ä¸\x80é\x83¨æ\x94¹æ­£ã\x81\
@@ -119,11 +119,11 @@ sources:
       type: web
       publisher: MHLW
       link: https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf
-    change_type: new
+    change_type: unchanged
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-05-25T22:13:17.072183+00:00'
+  fetched_at: '2026-05-26T22:24:23.496596+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -244,7 +244,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-05-25T22:14:01.595639+00:00'
+  fetched_at: '2026-05-26T22:25:07.263917+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -484,5 +484,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-05-25T22:14:02.641823+00:00'
+  fetched_at: '2026-05-26T22:25:08.245893+00:00'
   items: []
