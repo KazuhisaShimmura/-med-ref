@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T22:06:55.151406+00:00",
+  "generated_at": "2026-06-29T22:14:14.307231+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-06-28T22:06:44.445813+00:00",
+      "fetched_at": "2026-06-29T22:14:04.963010+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-06-28T22:06:48.400935+00:00",
+      "fetched_at": "2026-06-29T22:14:08.385038+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-06-28T22:06:52.372573+00:00",
+      "fetched_at": "2026-06-29T22:14:11.842096+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -460,20 +460,20 @@
         {
           "title": "公募カレンダー",
           "id": "sha1:70a644c65fcf8345ea7fce9e746a9015992f14ed",
-          "date": "2004-06-07",
+          "date": null,
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [
             "含意: 公募"
           ],
-          "summary": "PK\u0003\u0004\u0014�\b\b\b�\u0015y�\\������������\u0013���[Content_Types].xml͗�n�0\u0010�_E൐�EQ\u0014�sH�c\u001b )�+C�,��@Ҏ��%);�\\\u0019�\u001a �E g�~r�\u0003ky�IQ��:�U���\u0005*@Q͸Z������ *�'�\u0011�\u0015�h\u000f\u000eݬ��{\u0003�\b��ը��|���\u0016$q�6����V\u0012 ^�\u001a\u001bB7d �z����V �/}́V�;h�V��_��kD�\u0011�\u0012 d�b'IK�4�\u0002�t+CH�\u0005�\\ २��!�}���6 *�u!q��'�\u0010>��2j�J�� &���yE…",
+          "summary": "PK\u0003\u0004\u0014�\b\b\b��Y�\\������������\u0013���[Content_Types].xml͗Mo�0 �����\u0010+�a\u0018���nǭ@;`WUbb!��Ĥɿ�,'\u0005��@���.�-R|^�2a/n�ZU;�AZӐ�zN*0� i� ���c��T\u0001�\u0011LY\u0003 9@ 7����A��Z\u0013\u001a�\"���\u0006ނf��\u000eL���� �_S�����^��)�\u0006�� �\u0018d���\u0015�*����]�0�� �,�3�,�̮V���|��:8\u000fL�\u0016�����1��\u0007ĘF ��} �g�( ��c ��=��\u0013Z��0�…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "AMED",
             "link": "https://www.amed.go.jp/content/000117274.xlsx"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         }
       ]
     },
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-06-28T22:06:53.584116+00:00",
+      "fetched_at": "2026-06-29T22:14:12.827989+00:00",
       "items": []
     }
   ]
