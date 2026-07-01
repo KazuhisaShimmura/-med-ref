@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-30T22:18:17.126374+00:00",
+  "generated_at": "2026-07-01T22:22:36.631845+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-06-30T22:18:07.606968+00:00",
+      "fetched_at": "2026-07-01T22:22:28.688254+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
           "id": "sha1:4e5af4992d77fa5e2d457a2d3c91e627f1d19682",
-          "date": "2026-06-01",
+          "date": "2026-07-01",
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [],
@@ -21,12 +21,12 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free3"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "医療分野の情報化に関するガイドライン、通知、会議報告",
           "id": "sha1:6a3f1212f04934b46c45738fa757cb18875d3957",
-          "date": "2026-06-01",
+          "date": "2026-07-01",
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [],
@@ -37,12 +37,12 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free4"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "地域医療情報連携ネットワークに関する調査・通知等",
           "id": "sha1:2d3400a8d8a33a2795c54396efcc989dea582d8e",
-          "date": "2026-06-01",
+          "date": "2026-07-01",
           "jurisdiction": "JP",
           "doc_type": "call",
           "key_facts": [],
@@ -53,7 +53,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html#h2_free6"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "【交付要綱】（案）地域診療情報連携推進費補助金（医療情報システムのクラウド化に伴う検討事業）［165KB］",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-06-30T22:18:11.060740+00:00",
+      "fetched_at": "2026-07-01T22:22:31.411179+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-06-30T22:18:14.513998+00:00",
+      "fetched_at": "2026-07-01T22:22:34.428679+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -374,27 +374,6 @@
           "change_type": "unchanged"
         },
         {
-          "title": "研究事業成果集",
-          "id": "sha1:64df3135e5a33da0a79103daca3a55641766f28c",
-          "date": null,
-          "jurisdiction": "JP",
-          "doc_type": "call",
-          "key_facts": [
-            "含意: 公募",
-            "含意: 採択",
-            "含意: 研究開発",
-            "含意: 事業"
-          ],
-          "summary": "AMED研究事業成果集 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（…",
-          "deadline": null,
-          "citation": {
-            "type": "web",
-            "publisher": "AMED",
-            "link": "https://www.amed.go.jp/pr/kenkyujigyoseika.html"
-          },
-          "change_type": "unchanged"
-        },
-        {
           "title": "公募情報",
           "id": "sha1:9c6da1e29aa4ab0df212dcaf58cffb321661111f",
           "date": null,
@@ -474,6 +453,27 @@
             "link": "https://www.amed.go.jp/content/000117274.xlsx"
           },
           "change_type": "unchanged"
+        },
+        {
+          "title": "公募予告一覧",
+          "id": "sha1:1ba4313958604359b495600c883ad9a61e30a47c",
+          "date": null,
+          "jurisdiction": "JP",
+          "doc_type": "call",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取り組み 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 分野別紹介 医薬品プロジェクト 医療機器・…",
+          "deadline": "2026-07-01",
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/search.php?search=search&nav=2&stage%5B%5D=公募予告"
+          },
+          "change_type": "new"
         }
       ]
     },
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-06-30T22:18:15.648167+00:00",
+      "fetched_at": "2026-07-01T22:22:35.391084+00:00",
       "items": []
     }
   ]
