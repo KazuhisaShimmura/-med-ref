@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T22:16:12.145475+00:00",
+  "generated_at": "2026-07-08T22:12:36.068796+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-07-07T22:16:02.107611+00:00",
+      "fetched_at": "2026-07-08T22:12:26.552940+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-07-07T22:16:06.242646+00:00",
+      "fetched_at": "2026-07-08T22:12:29.995229+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-07-07T22:16:09.619923+00:00",
+      "fetched_at": "2026-07-08T22:12:33.446507+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -353,8 +353,8 @@
           "change_type": "unchanged"
         },
         {
-          "title": "事業成果",
-          "id": "sha1:d314f616e3e1797b20ed18061525838b75f44280",
+          "title": "医療研究開発機構理事長賞（AMED理事長賞）",
+          "id": "sha1:00a2a6d9c06af82d9d04e0567490ed50b642a89e",
           "date": null,
           "jurisdiction": "JP",
           "doc_type": "call",
@@ -364,14 +364,14 @@
             "含意: 研究開発",
             "含意: 事業"
           ],
-          "summary": "事業成果 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品…",
+          "summary": "医療研究開発機構理事長賞（AMED理事長賞） | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 取組 情報公開 研究公正 社会共創 研究への患者・市民参画（PPI） 戦略的な研究開発の推進 性差を考慮した研究開発の推進 事業紹介 開閉ボタン 事業紹…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "AMED",
-            "link": "https://www.amed.go.jp/seika/index.html"
+            "link": "https://www.amed.go.jp/news/seika/amed-president-award.html"
           },
-          "change_type": "unchanged"
+          "change_type": "new"
         },
         {
           "title": "公募情報",
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-07-07T22:16:10.763878+00:00",
+      "fetched_at": "2026-07-08T22:12:34.610253+00:00",
       "items": []
     }
   ]
