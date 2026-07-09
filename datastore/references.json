@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T22:12:36.068796+00:00",
+  "generated_at": "2026-07-09T22:36:20.694358+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-07-08T22:12:26.552940+00:00",
+      "fetched_at": "2026-07-09T22:36:10.701366+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-07-08T22:12:29.995229+00:00",
+      "fetched_at": "2026-07-09T22:36:14.236903+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-07-08T22:12:33.446507+00:00",
+      "fetched_at": "2026-07-09T22:36:18.183486+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -371,7 +371,7 @@
             "publisher": "AMED",
             "link": "https://www.amed.go.jp/news/seika/amed-president-award.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "公募情報",
@@ -481,7 +481,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-07-08T22:12:34.610253+00:00",
+      "fetched_at": "2026-07-09T22:36:19.287559+00:00",
       "items": []
     }
   ]
