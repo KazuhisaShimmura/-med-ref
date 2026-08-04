@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T22:11:56.217235+00:00",
+  "generated_at": "2026-08-04T22:17:16.320744+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-08-03T22:11:46.416156+00:00",
+      "fetched_at": "2026-08-04T22:17:08.345466+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-08-03T22:11:49.422391+00:00",
+      "fetched_at": "2026-08-04T22:17:11.344168+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-08-03T22:11:53.323839+00:00",
+      "fetched_at": "2026-08-04T22:17:14.144225+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -364,7 +364,7 @@
             "含意: 事業"
           ],
           "summary": "性差を考慮した研究開発の推進 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースP…",
-          "deadline": "2026-07-31",
+          "deadline": "2026-07-24",
           "citation": {
             "type": "web",
             "publisher": "AMED",
@@ -480,7 +480,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-08-03T22:11:54.935203+00:00",
+      "fetched_at": "2026-08-04T22:17:15.024288+00:00",
       "items": []
     }
   ]
