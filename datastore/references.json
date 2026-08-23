@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T21:27:14.665478+00:00",
+  "generated_at": "2026-08-23T21:26:55.799019+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-08-22T21:27:04.479354+00:00",
+      "fetched_at": "2026-08-23T21:26:45.670070+00:00",
       "items": [
         {
           "title": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦",
@@ -37,7 +37,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html"
           },
-          "change_type": "updated"
+          "change_type": "unchanged"
         },
         {
           "title": "å»çæå ±é£æºãããã¯ã¼ã¯æ¯æ´ããï¼ã¢ã¼ã«ã¤ãï¼",
@@ -111,7 +111,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-08-22T21:27:07.970504+00:00",
+      "fetched_at": "2026-08-23T21:26:49.223385+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -225,7 +225,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-08-22T21:27:12.181850+00:00",
+      "fetched_at": "2026-08-23T21:26:53.220550+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -482,7 +482,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-08-22T21:27:13.261743+00:00",
+      "fetched_at": "2026-08-23T21:26:54.285254+00:00",
       "items": []
     }
   ]
