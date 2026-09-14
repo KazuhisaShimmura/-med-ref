@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T23:03:11.602640+00:00",
+  "generated_at": "2026-09-14T23:48:07.476193+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-09-13T23:03:01.933755+00:00",
+      "fetched_at": "2026-09-14T23:47:56.986239+00:00",
       "items": [
         {
           "title": "医療情報システムのクラウド化に伴う検討事業について",
@@ -109,7 +109,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-09-13T23:03:05.403280+00:00",
+      "fetched_at": "2026-09-14T23:48:00.554952+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -223,7 +223,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-09-13T23:03:09.102798+00:00",
+      "fetched_at": "2026-09-14T23:48:05.122333+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -444,14 +444,14 @@
           "key_facts": [
             "含意: 公募"
           ],
-          "summary": "PK\u0003\u0004\u0014�\b\b\b��Y\u0018]������������\u0013���[Content_Types].xml͗Mo�0 �����\u0010+�a\u0018���nǭ@;`WUbb!��Ĥɿ�,'\u0005��@���.�-R|^�2a/n�ZU;�AZӐ�zN*0� i� ���c��T\u0001�\u0011LY\u0003 9@ 7����A��Z\u0013\u001a�\"���\u0006ނf��\u000eL���� �_S�����^��)�\u0006�� �\u0018d���\u0015�*����]�0�� �,�3�,�̮V���|��:8\u000fL�\u0016�����1��\u0007ĘF ��} �g�( ��c ��=��\u0013Z��0�…",
+          "summary": "PK\u0003\u0004\u0014�\b\b\b��i.]������������\u0013���[Content_Types].xml͖MO�0\u0010��J��q\u0001i�BM9,�\u0011�`%�ƞ6V�%{Z��c�EJ7H\u0015�ڽĎ��<�؉���֚j\u00031i�\u001avQOY\u0005Nz�ݲa���&?X�P8%�wа $v3�=�\u0002���԰\u00161\\s�d V��\u0007p\u0014Y�h\u0005�m\\� �J,�_N�߹�\u000e��\u0004s\u000e6���B� V?��a\"\u0004��@��7N %���BKP^�-M�S� Tj\u0001К:DM��\u0013 R\u0019�U������U;�?��\u0017QG0E�Z �7\u0012��\u0014M…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "AMED",
             "link": "https://www.amed.go.jp/content/000117274.xlsx"
           },
-          "change_type": "unchanged"
+          "change_type": "updated"
         },
         {
           "title": "公募予告一覧",
@@ -480,7 +480,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-09-13T23:03:10.196836+00:00",
+      "fetched_at": "2026-09-14T23:48:06.137617+00:00",
       "items": []
     }
   ]
