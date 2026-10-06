@@ -1,9 +1,9 @@
-generated_at: '2026-10-04T23:54:21.202163+00:00'
+generated_at: '2026-10-06T01:42:31.007374+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-10-04T23:54:11.990185+00:00'
+  fetched_at: '2026-10-06T01:42:21.408564+00:00'
   items:
   - title: 医療情報システムのクラウド化
     id: sha1:3970e3c558f178a1913073b59c55cdc7a16a6bfd
@@ -105,7 +105,7 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-10-04T23:54:15.247518+00:00'
+  fetched_at: '2026-10-06T01:42:25.287181+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -226,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-10-04T23:54:18.906698+00:00'
+  fetched_at: '2026-10-06T01:42:28.589979+00:00'
   items:
   - title: 海外事業所の活動報告
     id: sha1:1722573a3ce83c3ffbe690a2a0330fed66f4d71d
@@ -435,7 +435,7 @@ sources:
     doc_type: call
     key_facts:
     - '含意: 公募'
-    summary: "PK\x03\x04\x14�\b\b\b�B�<]������������\x13���[Content_Types].xmlŖ�n�0\x10\
+    summary: "PK\x03\x04\x14�\b\b\b�b|E]������������\x13���[Content_Types].xmlŖ�n�0\x10\
       �_%�\"\x06���\b � [$�\x03�x \x16�my���; P J%�\x04q�����3�G� �E -!�q6\x11��-\"\
       �����\x12�9~k=�\bIY�rg!\x11\e@1���\e\x0F\x18q��DdD�IJL3(\x14�΃e�ԅB\x11o�Lz���\
       \ d��~���\x04�ZT�\x10�� L�\"��y��L�\b�}nRE,K.�>J�rөIA�tQpH�>�Ҙ\x01P��>\x18�\x14\
@@ -445,7 +445,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/content/000117274.xlsx
-    change_type: unchanged
+    change_type: updated
   - title: 公募予告一覧
     id: sha1:1ba4313958604359b495600c883ad9a61e30a47c
     date: null
@@ -469,5 +469,5 @@ sources:
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-10-04T23:54:19.895602+00:00'
+  fetched_at: '2026-10-06T01:42:29.579883+00:00'
   items: []
