@@ -1,27 +1,29 @@
 {
-  "generated_at": "2026-10-21T23:56:40.131303+00:00",
+  "generated_at": "2026-10-22T23:56:03.740450+00:00",
   "sources": [
     {
       "category": "regulation_and_policy",
       "name": "厚労省 医療情報システム安全管理ガイドライン",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html",
-      "fetched_at": "2026-10-21T23:56:32.207496+00:00",
+      "fetched_at": "2026-10-22T23:55:54.561076+00:00",
       "items": [
         {
           "title": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦",
           "id": "sha1:595545ad93664eb16a69b270bc98901da7c2f308",
-          "date": null,
+          "date": "2026-10-01",
           "jurisdiction": "JP",
-          "doc_type": "other",
-          "key_facts": [],
-          "summary": "å»çåéã®ãµã¤ãã¼ã»ã­ã¥ãªãã£å¯¾ç­ã«ã¤ãã¦ï½åçå´åç æ¤ç´¢ ã¡ãã¥ã¼ æ¬æã¸ ãååããçªå£ ããããå¾¡è³ªå ãµã¤ãããã å½æ°åå ã®å ´ ç¹å­ãã¦ã³ã­ã¼ã æ¤ç´¢ éãã Language ãè¨èªåæ¿…",
+          "doc_type": "call",
+          "key_facts": [
+            "版数: 0版"
+          ],
+          "summary": "医療分野のサイバーセキュリティ対策について｜厚生労働省 検索 メニュー 本文へ お問合わせ窓口 よくある御質問 サイトマップ 国民参加の場 点字ダウンロード 検索 閉じる Language 「言語切替」サービスについて このホームページを、英語・中国語・韓国語へ機械的に自動翻訳します。以下の内容をご理解のうえ、ご利用いただきますようお願いします。 1. 翻訳対象はページ内に記載されている文字情報となります。画像等で表現する内容は翻訳されません。 2. 機械による自動翻訳のため、必ずしも正確な翻訳であるとは限りません…",
           "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/cyber-security.html"
           },
-          "change_type": "new"
+          "change_type": "updated"
         },
         {
           "title": "é»å­ã«ã«ãæå ±å±æãµã¼ãã¹ãã¼ã ãã¼ã¸",
@@ -37,7 +39,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/denkarukyouyuu.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãï¼å¹³æ22å¹´ï¼æ31æ¥ï¼ï¼»PDFå½¢å¼ï¼101KBï¼½",
@@ -53,7 +55,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/02.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ23å¹´12æ21æ¥ï¼ï¼»PDFå½¢å¼ï¼179KBï¼½",
@@ -69,7 +71,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/bunya/iryou/johoka/dl/16.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "ãä¿å¥å»çæå ±åéã®æ¨æºè¦æ ¼ã¨ãã¦èªããã¹ãè¦æ ¼ã«ã¤ãã¦ãã®ä¸é¨æ¹æ­£ã«ã¤ãã¦ï¼å¹³æ24å¹´ï¼æ23æ¥ï¼ï¼»PDFå½¢å¼ï¼129KBï¼½",
@@ -85,7 +87,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/dl/tuuchi_240323.pdf"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         },
         {
           "title": "HPKIèªè¨¼å±éç¨è¦ç´é¢é£è³æã»è¨¼ææ¸é¡ï½åçå´åç",
@@ -103,7 +105,7 @@
             "publisher": "MHLW",
             "link": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/pki-policy/repository.html"
           },
-          "change_type": "new"
+          "change_type": "unchanged"
         }
       ]
     },
@@ -111,7 +113,7 @@
       "category": "regulation_and_policy",
       "name": "PMDA（医療機器・審査/通知）",
       "url": "https://www.pmda.go.jp/review-services/inspections/0001.html",
-      "fetched_at": "2026-10-21T23:56:34.766443+00:00",
+      "fetched_at": "2026-10-22T23:55:57.650084+00:00",
       "items": [
         {
           "title": "æå ±æä¾æ¥­å",
@@ -225,7 +227,7 @@
       "category": "funding_and_grants",
       "name": "AMED（公募）",
       "url": "https://www.amed.go.jp/koubo/index.html",
-      "fetched_at": "2026-10-21T23:56:38.041789+00:00",
+      "fetched_at": "2026-10-22T23:56:01.485155+00:00",
       "items": [
         {
           "title": "海外事業所の活動報告",
@@ -396,27 +398,6 @@
           "change_type": "unchanged"
         },
         {
-          "title": "公募情報検索",
-          "id": "sha1:1252b698ad8fbc2f17627e21ad9a2872f70790d9",
-          "date": null,
-          "jurisdiction": "JP",
-          "doc_type": "call",
-          "key_facts": [
-            "含意: 公募",
-            "含意: 採択",
-            "含意: 研究開発",
-            "含意: 事業"
-          ],
-          "summary": "国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースPJ シーズ開発・基礎研究PJ 橋渡…",
-          "deadline": null,
-          "citation": {
-            "type": "web",
-            "publisher": "AMED",
-            "link": "https://www.amed.go.jp/search.php"
-          },
-          "change_type": "unchanged"
-        },
-        {
           "title": "公募相談窓口",
           "id": "sha1:b0cde6cea813f30f847406f38a6873484d3b1f79",
           "date": null,
@@ -457,7 +438,7 @@
         },
         {
           "title": "公募予告一覧",
-          "id": "sha1:1ba4313958604359b495600c883ad9a61e30a47c",
+          "id": "sha1:51f577745c2aac68507357030a7c3c09c615038f",
           "date": null,
           "jurisdiction": "JP",
           "doc_type": "call",
@@ -467,14 +448,36 @@
             "含意: 研究開発",
             "含意: 事業"
           ],
-          "summary": "国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースPJ シーズ開発・基礎研究PJ 橋渡…",
-          "deadline": "2026-10-21",
+          "summary": "公募予告一覧 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースPJ シーズ開発・…",
+          "deadline": null,
           "citation": {
             "type": "web",
             "publisher": "AMED",
-            "link": "https://www.amed.go.jp/search.php?search=search&nav=2&stage%5B%5D=公募予告"
+            "link": "https://www.amed.go.jp/koubo/yokoku_index.html"
           },
-          "change_type": "unchanged"
+          "change_type": "new"
+        },
+        {
+          "title": "公募情報一覧",
+          "id": "sha1:f4e024553484413519dcae60d7c0665cda0f04cd",
+          "date": null,
+          "jurisdiction": "JP",
+          "doc_type": "call",
+          "key_facts": [
+            "含意: 公募",
+            "含意: 募集",
+            "含意: 採択",
+            "含意: 研究開発",
+            "含意: 事業"
+          ],
+          "summary": "公募情報一覧 | 国立研究開発法人日本医療研究開発機構 English Site サイト内検索 調達情報 採用情報 公開情報 アクセス 問合せ先 メルマガ登録 AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所の活動報告 国内外機関との連携 事業・推進部門 事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースPJ シーズ開発・…",
+          "deadline": null,
+          "citation": {
+            "type": "web",
+            "publisher": "AMED",
+            "link": "https://www.amed.go.jp/koubo/koubo_index.html"
+          },
+          "change_type": "new"
         }
       ]
     },
@@ -482,7 +485,7 @@
       "category": "funding_and_grants",
       "name": "JST（公募）",
       "url": "https://www.jst.go.jp/koubo/",
-      "fetched_at": "2026-10-21T23:56:38.898579+00:00",
+      "fetched_at": "2026-10-22T23:56:02.473602+00:00",
       "items": []
     }
   ]
