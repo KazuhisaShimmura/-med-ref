@@ -1,9 +1,9 @@
-generated_at: '2026-11-26T03:26:43.633596+00:00'
+generated_at: '2026-11-27T03:34:06.012288+00:00'
 sources:
 - category: regulation_and_policy
   name: 厚労省 医療情報システム安全管理ガイドライン
   url: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/johoka/index.html
-  fetched_at: '2026-11-26T03:26:33.101648+00:00'
+  fetched_at: '2026-11-27T03:33:57.622642+00:00'
   items:
   - title: 医療情報システムのクラウド化
     id: sha1:3970e3c558f178a1913073b59c55cdc7a16a6bfd
@@ -105,7 +105,7 @@ sources:
 - category: regulation_and_policy
   name: PMDA（医療機器・審査/通知）
   url: https://www.pmda.go.jp/review-services/inspections/0001.html
-  fetched_at: '2026-11-26T03:26:37.033432+00:00'
+  fetched_at: '2026-11-27T03:34:00.573413+00:00'
   items:
   - title: "æ\x83\Nå ±æ\x8F\x90ä¾\x9Bæ¥­å\x8B\x99"
     id: sha1:4cacbbf80b61496a53c29d34197e02deba69add0
@@ -226,7 +226,7 @@ sources:
 - category: funding_and_grants
   name: AMED（公募）
   url: https://www.amed.go.jp/koubo/index.html
-  fetched_at: '2026-11-26T03:26:41.338305+00:00'
+  fetched_at: '2026-11-27T03:34:03.932762+00:00'
   items:
   - title: 海外事業所
     id: sha1:60dcfa19924ec548f8efb773f1e12d68a6342886
@@ -247,7 +247,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/aboutus/katsudou.html
-    change_type: updated
+    change_type: unchanged
   - title: 事業・推進部門
     id: sha1:79aa54c7982941e696359f320a4d7f331ea510f7
     date: null
@@ -267,7 +267,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/aboutus/busho_index.html
-    change_type: updated
+    change_type: unchanged
   - title: 事業紹介
     id: sha1:d8f7e0a108d4ad28d37fdfb7e45f2542d6228aa1
     date: null
@@ -287,7 +287,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/program/index.html
-    change_type: updated
+    change_type: unchanged
   - title: 国際事業
     id: sha1:0a6e10517e371260a5a92367107272f59f080519
     date: null
@@ -307,7 +307,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/program/list/20/index.html
-    change_type: updated
+    change_type: unchanged
   - title: 日本医療研究開発大賞 日本医療研究開発機構理事長賞（AMED理事長賞）
     id: sha1:bc7fdcb4f3d3211296237da3bb8a08c63e892c96
     date: null
@@ -387,7 +387,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/koubo/index.html
-    change_type: updated
+    change_type: unchanged
   - title: 公募情報検索
     id: sha1:1252b698ad8fbc2f17627e21ad9a2872f70790d9
     date: null
@@ -407,7 +407,7 @@ sources:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/search.php
-    change_type: updated
+    change_type: unchanged
   - title: 公募相談窓口
     id: sha1:b0cde6cea813f30f847406f38a6873484d3b1f79
     date: null
@@ -460,14 +460,14 @@ sources:
       AMEDについて 開閉ボタン AMEDについて 理事長挨拶 機構概要 理念、運営方針等 中長期計画・年度計画・報告等 海外事業所 国内外機関との連携 事業・推進部門
       事業紹介 開閉ボタン 事業紹介 統合プロジェクト（PJ） 医薬品PJ 医療機器・ヘルスケアPJ 再生・細胞医療・遺伝子治療PJ 感染症PJ データ利活用・ライフコースPJ
       シーズ開発・基礎研究PJ 橋渡し・臨床加…
-    deadline: '2026-11-18'
+    deadline: '2026-11-26'
     citation:
       type: web
       publisher: AMED
       link: https://www.amed.go.jp/search.php?search=search&nav=2&stage%5B%5D=公募予告
-    change_type: updated
+    change_type: unchanged
 - category: funding_and_grants
   name: JST（公募）
   url: https://www.jst.go.jp/koubo/
-  fetched_at: '2026-11-26T03:26:42.308137+00:00'
+  fetched_at: '2026-11-27T03:34:04.792381+00:00'
   items: []
